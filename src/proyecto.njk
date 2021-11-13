@@ -1,0 +1,53 @@
+--- 
+layout: _layouts/_base-layout
+pageTitle: Proyecto
+---
+
+<style>
+.title {
+    text-align: center
+}
+.description {
+    text-align: center
+}
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.project-item {
+    text-align: justify
+}
+
+/* Medium size */
+@media screen and (max-width: 800px) {
+    .project-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+/* Small size */
+@media screen and (max-width: 600px) {
+    .project-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+</style>
+
+<h1 id="title">Proyecto</h1>
+<p id="description">Descripción del proyecto Wilde Eafit aquí</p>
+
+<div class="project-grid">
+    <div class="project-item">
+        <h2>Semillero</h2>
+        <p>Elit amet aspernatur iste neque dolorum Sed distinctio neque culpa est dolore quaerat temporibus. Tenetur facilis repudiandae nostrum voluptas quaerat Deleniti perspiciatis temporibus atque ullam atque Dolorem exercitationem fugiat officiis.</p>
+    </div>
+    <div class="project-item">
+        <h2>Traducción colectiva</h2>
+        <p>Adipisicing provident natus aliquam dolores quisquam similique? Quia itaque nesciunt qui magni quam! Necessitatibus repudiandae obcaecati vitae similique dolorem harum Autem tempore ipsa voluptatibus quidem nihil. Cum ratione distinctio excepturi</p>
+    </div>
+    <div class="project-item">
+        <h2>Edición Semicrítica</h2>
+        <p>Sit officiis obcaecati fugiat consequatur hic pariatur provident magni maxime molestias, nam Eos exercitationem esse laborum cumque blanditiis. Eum cum alias quo autem amet Soluta ipsa quis soluta eum nostrum</p>
+    </div>
+</div>
