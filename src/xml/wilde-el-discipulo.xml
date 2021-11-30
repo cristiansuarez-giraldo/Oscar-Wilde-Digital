@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <document>
+        <column>
+            <head>The Disciple</head>
+            <content>
+                <p rend="indent-first">When <rs type="name" key="NAR3">Narcissus</rs> died the pool of his pleasure
+                    changed from a cup of sweet waters into a cup of salt tears, and the <rs
+                    type="name" key="ORE3">Oreads</rs> came weeping through the woodland that
+                    they might sing to the pool and give it comfort.</p>
+                <p rend="indent-first">And when they saw that the pool had changed from a cup of
+                    sweet waters into a cup of salt tears, they loosened the green tresses of their
+                    hair and cried to the pool and said, "We do not wonder that you should mourn in
+                    this manner for <rs type="name" key="NAR3">Narcissus</rs>, so beautiful was
+                    he".</p>
+                <p rend="indent-first">"But was <rs type="name" key="NAR3">Narcissus</rs>
+                    beautiful?"" said the pool.</p>
+                <p rend="indent-first">"Who should know that better than you?" answered the <rs
+                    type="name" key="ORE3">Oreads</rs>. "Us did he ever pass by, but you he
+                    sought for, and would lie on your banks and look down at you, and in the mirror
+                    of your waters he would mirror his own beauty".</p>
+                <p rend="indent-first">And the pool answered, "But I loved <rs type="name"
+                    key="NAR3">Narcissus</rs> because, as he lay on my banks and looked down at
+                    me, in the mirror of his eyes I saw ever my own beauty mirrored".</p>
+            </content>
+        </column>
+        <column>
+            <head>El discípulo</head>
+            <content>
+                <p rend="indent-first">Cuando <rs type="name" key="NAR3">Narciso</rs> murió, la fuente de sus placeres
+                    dejó de ser un estanque de aguas dulces y se transformó en un estanque de
+                    lágrimas saladas, y las <rs type="name" key="ORE3">Oréades</rs> vinieron
+                    sollozando por el bosque para cantarle a la fuente y darle consuelo.</p>
+                <p rend="indent-first">Y cuando vieron que la fuente ya no era un estanque de aguas
+                    dulces sino un estanque de lágrimas saladas, soltaron las trenzas de sus
+                    verdes cabellos y lloraron sobre la fuente diciéndole: “No nos sorprende que guardes
+                    este luto por <rs type="name" key="NAR3">Narciso</rs>, tan hermoso era”.</p>
+                <p rend="indent-first">“¿Acaso <rs type="name" key="NAR3">Narciso</rs> era
+                    hermoso?”, dijo la fuente.</p>
+                <p rend="indent-first">“¿Y quién debería saberlo mejor que tú?”, respondieron las
+                    <rs type="name" key="ORE3">Oréades</rs>. “A nosotras ni siquiera nos miraba,
+                    fue a ti que él buscó, y recostado junto a tus orillas te miraba fijamente, y en
+                    el espejo de tus aguas veía su propia belleza reflejada".</p>
+                <p rend="indent-first">Y la fuente respondió, “Pero yo amaba a <rs type="name"
+                    key="NAR3">Narciso</rs> porque cuando se recostaba junto a mis orillas y me
+                    miraba fijamente, en el espejo de sus ojos yo veía siempre el reflejo de mi propia belleza”.</p>
+            </content>
+        </column>
+        <column>
+            <head>O discípulo</head>
+            <content>
+                <p rend="indent-first">Quando <rs type="name" key="NAR3">Narciso</rs> morreu, a fonte do seu prazer
+                    tornou-se de uma taça de águas suaves uma taça de lagrimas amargas e as <rs
+                    type="name" key="ORE3">Oréades</rs> vieram chorando pelas florestas para
+                    cantar á fonte e dar-lhe consolação.</p>
+                <p rend="indent-first">E quando viram que a fonte se tinha tornado de uma taça
+                    de águas suaves uma taça de lagrimas amargas, soltaram as verdes tranças do seu
+                    cabelo e falando à fonte disseram: Não nos admira que chores assim por <rs
+                    type="name" key="NAR3">Narciso</rs>, tão belo era ele.</p>
+                <p rend="indent-first">—Mas <rs type="name" key="NAR3">Narciso</rs> era bello? disse
+                    a fonte.</p>
+                <p rend="indent-first">—Quem melhor que tu pode saber? responderam as <rs
+                    type="name" key="ORE3">Oréades</rs>. Por nós passava ele sempre,
+                    deixando-nos, mas a ti buscava-te sempre e deitava-se à tua margem e olhava,
+                    debruçando-se, para ti e no espelho das tuas aguas espelhava ele a sua
+                    beleza.</p>
+                <p rend="indent-first">E a fonte respondeu: Mas eu amava <rs type="name" key="NAR3">Narciso</rs> 
+                    porque, quando, deitado à minha margem, se debruçava fitando-me, no espelho dos seus olhos 
+                    eu via sempre a minha própria beleza refletida.</p>
+            </content>
+        </column>
+        <column>
+            <head>El discípulo</head>
+            <content>
+                <p rend="indent-first">Cuando <rs type="name" key="NAR3">Narciso</rs> murió, la fuente de su placer se
+                    transformó de una copa de aguas suaves a una copa de lágrimas amargas, y las <rs
+                    type="name" key="ORE3">Oréades</rs> vinieron llorando por los bosques para
+                    cantarle a la fuente y darle consuelo.</p>
+                <p rend="indent-first">Y cuando vieron que la fuente se había transformado de una
+                    copa de aguas suaves a una copa de lágrimas amargas, soltaron las verdes trenzas
+                    de sus cabellos y hablándole a la fuente, dijeron: No nos sorprende que llores
+                    así por <rs type="name" key="NAR3">Narciso</rs>, tan bello era.</p>
+                <p rend="indent-first">—¿Pero <rs type="name" key="NAR3">Narciso</rs> era bello?
+                    dijo la fuente.</p>
+                <p rend="indent-first">—¿Quién mejor que tú puede saberlo? respondieron las <rs
+                    type="name" key="ORE3">Oréades</rs>. Él siempre pasaba por nosotras,
+                    abandonándonos, pero a ti te buscaba siempre y se tendía a tu orilla y te
+                    miraba, inclinado, y en el espejo de tus aguas reflejaba su belleza.</p>
+                <p rend="indent-first">Y la fuente respondió: Pero yo amaba a <rs type="name"
+                    key="NAR3">Narciso</rs> porque, cuando, tendido en mi orilla, se
+                    inclinaba mirándome fijamente, en el espejo de sus ojos yo veía siempre mi
+                    propia belleza reflejada.</p>
+            </content>
+        </column>
+    </document>
+</TEI>

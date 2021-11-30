@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <document>
+        <column mainLang="en">
+            <head>The House of Judgement</head>
+            <content>
+                <p rend="indent-first">And there was silence in the House of Judgment, and the Man came naked before <rs
+                        type="name" key="GOD5">God</rs>.</p>
+                <p rend="indent-first">And <rs type="name" key="GOD5">God</rs> opened the Book of
+                    the Life of the <rs type="person" key="HOM5">Man</rs>.</p>
+                <p rend="indent-first">And <rs type="name" key="GOD5">God</rs> said to the Man,
+                    "Thy life hath been evil, and thou hast shown cruelty to those who were in need
+                    of succour, and to those who lacked help thou hast been bitter and hard of
+                    heart. The poor called to thee and thou didst not hearken, and thine ears were
+                    closed to the cry of My afflicted. The inheritance of the fatherless thou didst
+                    take unto thyself, and thou didst send the foxes into the vineyard of thy
+                    neighbour's field. Thou didst take the bread of the children and give it to the
+                    dogs to eat, and My lepers who lived in the marshes, and were at peace and
+                    praised Me, thou didst drive forth on to the highways, and on Mine earth out of
+                    which I made thee thou didst spill innocent blood".</p>
+                <p rend="indent-first">And the <rs type="person" key="HOM5">Man</rs> made answer and said, "Even so did I."</p>
+                <p rend="indent-first">And again <rs type="name" key="GOD5">God</rs> opened the
+                    Book of the Life of the <rs type="person" key="HOM5">Man</rs>.</p>
+                <p rend="indent-first">And <rs type="name" key="GOD5">God</rs> said to the <rs type="person" key="HOM5">Man</rs>,
+                    "Thy life hath been evil, and the Beauty I have shown thou hast sought for, and
+                    the Good I have hidden thou didst pass by. The walls of thy chamber were painted
+                    with images, and from the bed of thine abominations thou didst rise up to the
+                    sound of flutes. Thou didst build seven altars to the sins I have suffered, and
+                    didst eat of the thing that may not be eaten, and the purple of thy raiment was
+                    broidered with the three signs of shame. Thine idols were neither of gold nor of
+                    silver that endure, but of flesh that dieth. Thou didst stain their hair with
+                    perfumes and put pomegranates in their hands. Thou didst stain their feet with
+                    saffron and spread carpets before them. With antimony thou didst stain their
+                    eyelids and their bodies thou didst smear with myrrh. Thou didst bow thyself to
+                    the ground before them, and the thrones of thine idols were set in the sun. Thou
+                    didst show to the sun thy shame and to the moon thy madness".</p>
+                <p rend="indent-first">And the <rs type="person" key="HOM5">Man</rs> made answer and said, "Even so did I".</p>
+                <p rend="indent-first">And a third time <rs type="name" key="GOD5">God</rs> opened
+                    the Book of the Life of the <rs type="person" key="HOM5">Man</rs>.</p>
+                <p rend="indent-first">And <rs type="name" key="GOD5">God</rs> said to the <rs type="person" key="HOM5">Man</rs>,
+                    "Evil hath been thy life, and with evil didst thou requite good, and with
+                    wrongdoing kindness. The hands that fed thee thou didst wound, and the breasts
+                    that gave thee suck thou didst despise. He who came to thee with water went away
+                    thirsting, and the outlawed men who hid thee in their tents at night thou didst
+                    betray before dawn. Thine enemy who spared thee thou didst snare in an ambush,
+                    and the friend who walked with thee thou didst sell for a price, and to those
+                    who brought thee Love thou didst ever give Lust in thy turn".</p>
+                <p rend="indent-first">And the <rs type="person" key="HOM5">Man</rs> made answer and said, "Even so did I".</p>
+                <p rend="indent-first">And <rs type="name" key="GOD5">God</rs> closed the Book of
+                    the Life of the <rs type="person" key="HOM5">Man</rs>, and said, "Surely I will send thee into Hell. Even into
+                    Hell will I send thee".</p>
+                <p rend="indent-first">And the <rs type="person" key="HOM5">Man</rs> cried out, "Thou canst not".</p>
+                <p rend="indent-first">And <rs type="name" key="GOD5">God</rs> said to the <rs type="person" key="HOM5">Man</rs>,
+                    "Wherefore can I not send thee to Hell, and for what reason?".</p>
+                <p rend="indent-first">"Because in Hell have I always lived", answered the <rs type="person" key="HOM5">Man</rs>.</p>
+                <p rend="indent-first">And there was silence in the House of Judgment.</p>
+                <p rend="indent-first">And after a space <rs type="name" key="GOD5">God</rs> spake,
+                    and said to the <rs type="person" key="HOM5">Man</rs>, "Seeing that I may not send thee into Hell, surely I will
+                    send thee unto Heaven. Even unto Heaven will I send thee".</p>
+                <p rend="indent-first">And the <rs type="person" key="HOM5">Man</rs> cried out, "Thou canst not".</p>
+                <p rend="indent-first">And <rs type="name" key="GOD5">God</rs> said to the <rs type="person" key="HOM5">Man</rs>,
+                    "Wherefore can I not send thee unto Heaven, and for what reason?".</p>
+                <p rend="indent-first">"Because never, and in no place, have I been able to imagine
+                    it", answered the <rs type="person" key="HOM5">Man</rs>.</p>
+                <p rend="indent-first">And there was silence in the House of Judgment.</p>
+            </content>
+        </column>
+        <column mainLang="es" translatedFrom="en">
+            <head>El Tribunal</head>
+            <content>
+                <p>Y hubo silencio en el Tribunal y el <rs type="person" key="HOM5">Hombre</rs> se presentó desnudo ante <rs
+                        type="name" key="GOD5">Dios</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> abrió el Libro de la
+                    Vida del <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    “Tu vida ha sido malvada, y tú te has mostrado cruel ante los que pedían
+                    socorro, y ante aquellos que requerían ayuda has sido recio y duro de corazón.
+                    Lo pobres te llamaron y tú no atendiste, tus oídos se cerraron a los gritos de
+                    Mis afligidos. Usurpaste la herencia de los huérfanos y soltaste zorros sobre la
+                    viña en el campo de tu prójimo. Tú robaste el pan a los niños y lo diste de
+                    comer a los perros, y a Mis leprosos, que vivían en paz en los pantanos y Me
+                    alababan, tú los arrastraste por los caminos, y sobre Mi tierra, de la que Yo a
+                    ti te hice, derramaste sangre inocente”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> respondiendo dijo: “Eso hice”.</p>
+                <p rend="indent-first">Y de nuevo <rs type="name" key="GOD5">Dios</rs> abrió el
+                    Libro de la Vida del <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    “Tu vida ha sido malvada, y la belleza que Yo te he mostrado tú la has buscado,
+                    y el bien que te he escondido, tú lo has ignorado. Las paredes de tus aposentos
+                    estaban pintadas con imágenes, y del lecho de tus abominaciones te levantaste al
+                    compás de flautas. Erigiste siete altares a los pecados que yo he tolerado, y
+                    has comido aquello que no se puede comer, y el púrpura de tus vestidos fue
+                    bordado con las tres cruces de la vergüenza. Tus ídolos no eran de oro ni plata
+                    hechos para durar, sino de carne hecha para morir. Tú manchaste sus cabellos con
+                    perfumes y pusiste granadas en sus manos. Tú manchaste sus pies con azafrán y
+                    extendiste alfombras ante ellos. Con antimonio manchaste sus párpados y sus
+                    cuerpos untaste de mirra. Tú te postraste en el suelo ante ellos, y los tronos
+                    de tus ídolos fueron puestos al sol. Tú mostraste al sol tu vergüenza y a la
+                    luna tu locura”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> respondiendo dijo: “Eso hice”.</p>
+                <p rend="indent-first">Y por tercera vez <rs type="name" key="GOD5">Dios</rs> abrió
+                    el Libro de la Vida del <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    “El mal ha sido tu vida, y con mal has pagado el bien y con fechorías la bondad.
+                    Heriste las manos que te alimentaron y despreciaste el pecho que te amamantó. El
+                    que vino a ti con agua se fue sediento, y a los forajidos que te escondieron en
+                    sus tiendas durante la noche, los traicionaste antes del amanecer. Al enemigo
+                    que te perdonó la vida le tendiste una emboscada, y al amigo que te acompañó lo
+                    vendiste por unas monedas, y a aquellos que te dieron amor les correspondiste
+                    siempre con lujuria”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> respondiendo dijo: “Eso hice”.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> cerró el Libro de la
+                    Vida del <rs type="person" key="HOM5">Hombre</rs>, y dijo: “Está claro que te enviaré al infierno. Justo al
+                    infierno te enviaré”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> gritó: “No puedes”.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    “¿Cómo que Yo no puedo enviarte al infierno?, ¿por qué razón?”.</p>
+                <p rend="indent-first">“Porque en el infierno he vivido siempre”, respondió el
+                    <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y hubo silencio en el Tribunal.</p>
+                <p rend="indent-first">Y después de un momento habló <rs type="name" key="GOD5">Dios</rs>, 
+                    y le dijo al <rs type="person" key="HOM5">Hombre</rs>, “Ya que no puedo enviarte al infierno, está
+                    claro que te enviaré al cielo. Justo al cielo te enviaré”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> gritó: “No puedes”.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    “¿Cómo que Yo no puedo enviarte al cielo?, ¿por qué razón?”.</p>
+                <p rend="indent-first">“Porque nunca, ni en ningún lugar, he podido imaginarlo”,
+                    contestó el <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y hubo silencio en el Tribunal.</p>
+            </content>
+        </column> 
+        <column mainLang="pt" translatedFrom="en">
+            <head>A Casa de Juízo</head>
+            <content>
+                <p>E havia silencio na Casa de Juízo e o <rs type="person" key="HOM5">Homen</rs> apareceu nu ante <rs type="name"
+                    key="GOD5">Deus</rs>.</p>
+                <p rend="indent-first">E <rs type="name" key="GOD5">Deus</rs> abriu o Livro da Vida
+                    do <rs type="person" key="HOM5">Homen</rs>.</p>
+                <p rend="indent-first">E <rs type="name" key="GOD5">Deus</rs> disse ao <rs type="person" key="HOM5">Homen</rs>: “A
+                    tua vida foi má, e mostraste crueldade aos que precisavam socorro e
+                    para os que precisavam auxílio foste amargo e duro de coração. Os pobres
+                    chamaram por ti e tu não ouviste, e os teus ouvidos estavam cerrados
+                    ao grito dos Meus aflitos. Tiraste para ti a herança do órfão e fizeste entrar
+                    raposas na vinha do quintal do teu vizinho. Tiraste o pão das
+                    crianças e deste-o a comer aos cães, e aos Meus leprosos que viviam nos pântanos
+                    e tinham paz e Me louvavam, tu os expulsaste para as estradas reais e sobre a
+                    Minha terra de que eu te fiz derramaste sangue inocente".</p>
+                <p rend="indent-first">E o <rs type="person" key="HOM5">Homen</rs> respondeu e disse: “Tudo isso eu fiz”.</p>
+                <p rend="indent-first">E outra vez <rs type="name" key="GOD5">Deus</rs> abriu o
+                    Livro da Vida do <rs type="person" key="HOM5">Homen</rs>.</p>
+                <p rend="indent-first">E <rs type="name" key="GOD5">Deus</rs> disse ao <rs type="person" key="HOM5">Homen</rs>: “A
+                    tua vida foi má, e a Beleza que te mostrei buscaste e ao Bom que
+                    eu escondi passaste por ele desprezando-o. Os muros do teu quarto eram
+                    pintados com imagens e do leito das tuas abominações te levantavas ao som de
+                    flautas. Levantaste sete altares aos pecados que eu permiti e comeste do que não
+                    devias ter comido, e a purpura das tuas vestes tinha bordados os três sinais de
+                    vergonha. Os teus ídolos não eram nem de ouro nem de prata que duram, mas de
+                    carne que perece. Manchaste-lhes os cabelos com perfume e puseste romãs nas
+                    suas mãos. Manchaste-lhes os pés com açafrão e estendeste tapetes ante eles.
+                    Com antinomia lhes tingiste as pálpebras e os corpos ungiste de mirra. Ante
+                    eles te inclinaste até o chão e os tronos dos teus ídolos estavam postos ao
+                    sol. Mostraste ao sol a tua vergonha e à lua a tua loucura.”</p>
+                <p rend="indent-first">E o <rs type="person" key="HOM5">Homen</rs> respondeu e disse: “Tudo isso eu fiz.”</p>
+                <p rend="indent-first">E pela terceira vez <rs type="name" key="GOD5"
+                    >Deus</rs> abriu o Livro da Vida do <rs type="person" key="HOM5">Homen</rs>.</p>
+                <p rend="indent-first">E <rs type="name" key="GOD5">Deus</rs> disse ao <rs type="person" key="HOM5">Homen</rs>: “Má
+                    foi a tua vida, e com o mal pagaste o bom e com maldade a doçura. Às
+                    mãos que te alimentaram feriste e aos seios que te amamentaram desprezaste. O
+                    que veio para ti com água foi de ti sedento e aos homens banidos que te
+                    esconderam de noite nas suas tendas traíste tu antes da madrugada. Ao teu
+                    inimigo que te poupou □ n’uma emboscada, e ao amigo que andava contigo vendeste
+                    por um preço e aos que te trouxeram Amor deste em troca a Luxuria”.</p>
+                <p rend="indent-first">E o <rs type="person" key="HOM5">Homen</rs> respondeu e disse: “Tudo isso eu fiz".</p>
+                <p rend="indent-first">E <rs type="name" key="GOD5">Deus</rs> fechou o Livro da
+                    Vida do <rs type="person" key="HOM5">Homen</rs> e disse: "Por certo que te mandarei para o Inferno. Mesmo para o
+                    Inferno te mandarei.”</p>
+                <p rend="indent-first">E o <rs type="person" key="HOM5">Homen</rs> gritou: “Não podes”.</p>
+                <p rend="indent-first">E <rs type="name" key="GOD5">Deus</rs> disse ao <rs type="person" key="HOM5">Homen</rs>: “Por
+                    que não te posso eu mandar para o Inferno, e por que razão?”.</p>
+                <p rend="indent-first">“Porque no Inferno tenho eu sempre vivido” respondeu o
+                    <rs type="person" key="HOM5">Homen</rs>.</p>
+                <p rend="indent-first">E houve silencio na Casa de Juízo.</p>
+                <p rend="indent-first">E depois de um tempo <rs type="name" key="GOD5">Deus</rs>
+                    falou e disse ao <rs type="person" key="HOM5">Homen</rs>: “Visto que não te posso mandar para o Inferno, por
+                    certo que te mandarei para o Céu. Mesmo para o Céu te mandarei.”</p>
+                <p rend="indent-first">E o <rs type="person" key="HOM5">Homen</rs> clamou: “Não podes.”</p>
+                <p rend="indent-first">E <rs type="name" key="GOD5">Deus</rs> disse ao <rs type="person" key="HOM5">Homen</rs>: “Por
+                    que não te poderei eu mandar para o Céu, e por que razão?”</p>
+                <p rend="indent-first">“Porque nunca e em nenhum lugar pude imagina-lo” respondeu o
+                    <rs type="person" key="HOM5">Homen</rs>.</p>
+                <p rend="indent-first">E houve silencio na Casa de Juízo.</p>
+            </content>
+        </column>
+        <column mainLang="es" translatedFrom="pt">
+            <head>El tribunal</head>
+            <content>
+                <p>Y había silencio en El Tribunal y el <rs type="person" key="HOM5">Hombre</rs> apareció desnudo ante <rs type="name"
+                    key="GOD5">Dios</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> abrió el Libro de la
+                    Vida del <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    "Tu vida fue mala, y mostraste crueldad a los que necesitaban socorro
+                    y con los que pedían auxilio fuiste amargo y duro de corazón. Los
+                    pobres te llamaron y tú no oíste, y tus oídos se cerraron al
+                    grito de Mis afligidos. Te apropiaste de la herencia del huérfano e hiciste entrar zorros
+                    a la viña del quintal de tu vecino. Quitaste el pan a los niños y se
+                    los diste de comer a los perros, y a Mis leprosos que vivían en los pantanos y
+                    tenían paz y Me adoraban, tú los expulsaste hacia los caminos reales y sobre Mi
+                    tierra, de la que te hice, derramaste sangre inocente".</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> respondió y dijo: "Todo eso hice".</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> abrió otra vez el
+                    Libro de la Vida del <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    "Tu vida fue mala, y buscaste la Belleza que te mostré y pasaste por
+                    el Bien que yo escondí, despreciándolo. Los muros de tu cuarto estaban
+                    pintados con imágenes y te levantabas del lecho de tus abominaciones al son de
+                    flautas. Levantaste siete altares a los pecados que permitiera y comiste de lo
+                    que no debías haber comido, y el púrpura de tus vestidos tenía bordadas las tres
+                    señales de la vergüenza. Tus ídolos no eran de oro ni de plata, que duran, sino
+                    de carne, que perece. Les manchaste los cabellos con perfume y pusiste granadas
+                    en sus manos. Les manchaste los pies con azafrán y extendiste tapetes ante
+                    ellos. Con antimonio les teñiste los párpados y los cuerpos ungiste de mirra. Te
+                    inclinaste hasta el suelo ante ellos y sus tronos estaban puestos al sol.
+                    Mostraste al sol tu vergüenza y a la luna tu locura."</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> respondió y dijo: "Todo eso hice yo".</p>
+                <p rend="indent-first">Y por una tercera vez <rs type="name" key="GOD5">Dios</rs> abrió
+                    el Libro de la Vida del <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    "Mala fue tu vida, y con el mal pagaste el bien y con maldad la
+                    dulzura. A las manos que te alimentaron heriste y los senos que te
+                    amamantaron depreciaste. El que vino a ti con agua se fue sediento y a los exiliados que te
+                    escondieron durante la noche en sus tiendas traicionaste tu antes de la madrugada.
+                    Al enemigo que te perdonó <!-- JU: buscar elemento para senalar una laguna --> en una emboscada, y al amigo que andaba
+                    contigo le pusiste un precio y a los que te trajeron Amor les diste a cambio
+                    Lujuria".</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> respondió y dijo: "Todo eso hice yo".</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> cerró el Libro de la
+                    Vida del <rs type="person" key="HOM5">Hombre</rs> y dijo: "Ciertamente he de mandarte al Infierno. Justo al Infierno te
+                    mandaré".</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> gritó: "No puedes".</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    "¿Por qué no te puedo yo mandar al Infierno, y por qué motivo?"</p>
+                <p rend="indent-first">"Porque en el Infierno he vivido siempre", respondió el
+                    <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y hubo silencio en el Tribunal.</p>
+                <p rend="indent-first">Y después de un tiempo <rs type="name" key="GOD5">Dios</rs>
+                    habló y le dijo al <rs type="person" key="HOM5">Hombre</rs>: "Dado que no te puedo mandar al Infierno, he de
+                    mandarte al Cielo. Justo al Cielo te mandaré".</p>
+                <p rend="indent-first">Y el <rs type="person" key="HOM5">Hombre</rs> clamó: "No puedes".</p>
+                <p rend="indent-first">Y <rs type="name" key="GOD5">Dios</rs> le dijo al <rs type="person" key="HOM5">Hombre</rs>:
+                    "¿Por qué no te podré yo mandar al Cielo, y por qué motivo?".</p>
+                <p rend="indent-first">”>"Porque nunca ni en ningún lugar pude imaginarlo",
+                    respondió el <rs type="person" key="HOM5">Hombre</rs>.</p>
+                <p rend="indent-first">Y hubo silencio en el Tribunal.</p>
+            </content>
+        </column>
+    </document>
+</TEI>
