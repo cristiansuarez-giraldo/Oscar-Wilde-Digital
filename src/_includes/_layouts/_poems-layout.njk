@@ -1,0 +1,26 @@
+--- 
+layout: _layouts/_base-layout
+---
+
+<style>
+h1 {
+    color: #222;
+}
+h2 {
+    text-align: center;
+    color: #444;
+}
+p {
+    text-align: justify;
+}
+</style>
+
+
+<h1 class="text-center">{{ pageTitle }}</h1>
+
+<section class="poems">{{ content | safe }}</section>
+
+<section class="article-source">
+    <h3 class="text-center">Fuente XML</h3>
+    <p class="text-center">El XML TEI asociado a este archivo se puede encontrar <a href="{{ xmlFileLink }}">en el siguiente enlace</a></p>
+</section>

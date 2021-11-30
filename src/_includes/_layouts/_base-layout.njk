@@ -1,17 +1,9 @@
-<!-- Base layout of a webpage -->
-
-<style>
-main {
-    margin: 40px 93px;
-}
-</style>
-
 <!DOCTYPE html>
 <html lang="es">
     {% include "_head.njk" %}
     <body>
         {% include "_top-navbar.njk" %}
-        <main >
+        <main class="container">
             {{ content | safe }}
         </main>
         {% include "_footer.njk" %}
