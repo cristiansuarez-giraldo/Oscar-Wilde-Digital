@@ -4,100 +4,81 @@ pageTitle: El Discipulo - Oscar Wilde
 xmlFileLink: /xml/poemas/wilde-el-discipulo.xml
 ---
 
-<div class="row">
-    <div class="three columns">
-        <h2>The Artist</h2>
-    </div>
-    <div class="three columns">
-        <h2>El artista</h2>
-    </div>
-    <div class="three columns">
-        <h2>O artista</h2>
-    </div>
-    <div class="three columns">
-        <h2>El artista</h2>
-    </div>
-</div>
+<!-- Poem Content -->
+{% set poem = [
+    ['The Disciple', 'El discípulo', 'O discípulo', 'El discípulo'],
+    [
+        '<p rend="indent-first">When Narcissus died the pool of his pleasure changed from a cup of sweet waters into a cup of salt tears, and the Oreads came weeping through the woodland that they might sing to the pool and give it comfort.</p>',
+        '<p rend="indent-first">Cuando Narciso murió, la fuente de sus placeres dejó de ser un estanque de aguas dulces y se transformó en un estanque de lágrimas saladas, y las Oréades vinieron sollozando por el bosque para cantarle a la fuente y darle consuelo.</p> ',
+        '<p rend="indent-first">Quando Narciso morreu, a fonte do seu prazer tornou-se de uma taça de águas suaves uma taça de lagrimas amargas e as Oréades vieram chorando pelas florestas para cantar á fonte e dar-lhe consolação.</p> ',
+        '<p rend="indent-first">Cuando Narciso murió, la fuente de su placer se transformó de una copa de aguas suaves a una copa de lágrimas amargas, y las Oréades vinieron llorando por los bosques para cantarle a la fuente y darle consuelo.</p> '
+    ],
+    [
+        '<p rend="indent-first">And when they saw that the pool had changed from a cup of sweet waters into a cup of salt tears, they loosened the green tresses of their hair and cried to the pool and said, "We do not wonder that you should mourn in this manner for Narcissus, so beautiful was he".</p>',
+        '<p rend="indent-first">Y cuando vieron que la fuente ya no era un estanque de aguas dulces sino un estanque de lágrimas saladas, soltaron las trenzas de sus verdes cabellos y lloraron sobre la fuente diciéndole: “No nos sorprende que guardes este luto por Narciso, tan hermoso era”.</p> ',
+        '<p rend="indent-first">E quando viram que a fonte se tinha tornado de uma taça de águas suaves uma taça de lagrimas amargas, soltaram as verdes tranças do seu cabelo e falando à fonte disseram: Não nos admira que chores assim por Narciso, tão belo era ele.</p> ',
+        '<p rend="indent-first">Y cuando vieron que la fuente se había transformado de una copa de aguas suaves a una copa de lágrimas amargas, soltaron las verdes trenzas de sus cabellos y hablándole a la fuente, dijeron: No nos sorprende que llores así por Narciso, tan bello era.</p> '
+    ],
+    [
+        '<p rend="indent-first">"But was Narcissus beautiful?" said the pool.</p>',
+        '<p rend="indent-first">“¿Acaso Narciso era hermoso?”, dijo la fuente.</p> ',
+        '<p rend="indent-first">—Mas Narciso era bello? disse a fonte.</p> ',
+        '<p rend="indent-first">—¿Pero Narciso era bello?  dijo la fuente.</p> '
+    ],
+    [
+        '<p rend="indent-first">"Who should know that better than you?" answered the Oreads. "Us did he ever pass by, but you he sought for, and would lie on your banks and look down at you, and in the mirror of your waters he would mirror his own beauty".</p>',
+        '<p rend="indent-first">“¿Y quién debería saberlo mejor que tú?”, respondieron las Oréades. “A nosotras ni siquiera nos miraba, fue a ti que él buscó, y recostado junto a tus orillas te miraba fijamente, y en el espejo de tus aguas veía su propia belleza reflejada".</p> ',
+        '<p rend="indent-first">—Quem melhor que tu pode saber? responderam as Oréades. Por nós passava ele sempre, deixando-nos, mas a ti buscava-te sempre e deitava-se à tua margem e olhava, debruçando-se, para ti e no espelho das tuas aguas espelhava ele a sua beleza.</p> ',
+        '<p rend="indent-first">—¿Quién mejor que tú puede saberlo? respondieron las Oréades. Él siempre pasaba por nosotras, abandonándonos, pero a ti te buscaba siempre y se tendía a tu orilla y te miraba, inclinado, y en el espejo de tus aguas reflejaba su belleza.</p> '
+    ],
+    [
+        '<p rend="indent-first">And the pool answered, "But I loved Narcissus because, as he lay on my banks and looked down at me, in the mirror of his eyes I saw ever my own beauty mirrored".</p>', 
+        '<p rend="indent-first">Y la fuente respondió, “Pero yo amaba a Narciso porque cuando se recostaba junto a mis orillas y me miraba fijamente, en el espejo de sus ojos yo veía siempre el reflejo de mi propia belleza”.</p> ', 
+        '<p rend="indent-first">E a fonte respondeu: Mas eu amava Narciso porque, quando, deitado à minha margem, se debruçava fitando-me, no espelho dos seus olhos eu via sempre a minha própria beleza refletida.</p> ', 
+        '<p rend="indent-first">Y la fuente respondió: Pero yo amaba a Narciso porque, cuando, tendido en mi orilla, se inclinaba mirándome fijamente, en el espejo de sus ojos yo veía siempre mi propia belleza reflejada.</p> '
+    ]
+] %}
 
 
-<!-- Paragraph 1 -->
-<div class="row">
-    <div class="three columns">
-        <p class="indent-first">One evening there came into his soul the desire to fashion an image of <em>The Pleasure that Abideth for a Moment</em>. And he went forth into the world to look for bronze. For he could think only in bronze.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Una noche entró a su alma el deseo de moldear la imagen de <em>El placer que se fija en un instante</em>, y salió a recorrer el mundo buscando bronce. Porque solo en bronce podía pensar.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Uma tarde veio-lhe á alma o desejo de talhar uma imagem do Prazer que dura um momento. E foi mundo fóra á procura de bronze. Porque não pensava senão por bronze.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Una tarde le vino al alma el deseo de tallar una imagen del Placer que dura un momento. Y fue por el mundo fuera en busca de bronce. Porque no pensaba sino con bronce.</p>
-    </div>
-</div>
+<!-- Rendered content -->
+{% for row in poem %}
+    <div class="row">
+        {% set isFirstRow = loop.first %}
+        {% for paragraph in row %}
+            {% set columnsAmmount = loop.length %}
 
-
-<!-- Paragraph 2 -->
-<div class="row">
-    <div class="three columns">
-        <p class="indent-first">But all the bronze of the whole world had disappeared, nor anywhere in the whole world was there any bronze to be found, save only the bronze of the image of <em>The Sorrow that Endureth for Ever</em>.</p>
+            {% if isFirstRow %}
+                {% set title = paragraph %}
+                {# Differenciate between columns with 2, 3 and 4 rows #}
+                {% if columnsAmmount <= 2 %}
+                    <div class="six columns">
+                        <h2>{{ title }}</h2>
+                    </div>
+                {% elif columnsAmmount == 3 %}
+                    <div class="four columns">
+                        <h2>{{ title }}</h2>
+                    </div>
+                {% elif columnsAmmount == 4 %}
+                    <div class="three columns">
+                        <h2>{{ title }}</h2>
+                    </div>
+                {% endif %}
+            {% else %}
+                {# Differenciate between columns with 2, 3 and 4 rows #}
+                {% if columnsAmmount <= 2 %}
+                    <div class="six columns">
+                        <p class="indent-first">{{ paragraph | safe }}</p>
+                    </div>
+                {% elif columnsAmmount == 3 %}
+                    <div class="four columns">
+                        <p class="indent-first">{{ paragraph | safe }}</p>
+                    </div>
+                {% elif columnsAmmount == 4 %}
+                    <div class="three columns">
+                        <p class="indent-first">{{ paragraph | safe }}</p>
+                    </div>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
     </div>
-    <div class="three columns">
-        <p class="indent-first">Pero todo el bronce del mundo entero había desaparecido, y en ningún lugar en todo el mundo había ya bronce, salvo el bronce de la imagen de <em>La tristeza que dura para siempre</em>.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Mas todo o bronze de todo o mundo tinha desapparecido, nem em cualquer parte do mundo se encontrava bronze a não ser o bronze da imagem da <em>Tristeza que sempre dura</em>.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Pero todo el bronce de todo el mundo había desaparecido, ni en cualquier parte del mundo se encontraba bronce a no ser el bronce de la imagen de la <em>Tristeza que siempre dura</em>.</p>
-    </div>
-</div>
-
-
-<!-- Paragraph 3 -->
-<div class="row">
-    <div class="three columns">
-        <p class="indent-first">Now this image he had himself, and with his own hands, fashioned, and had set it on the tomb of the one thing he had loved in life. On the tomb of the dead thing he had most loved had he set this image of his own fashioning, that it might serve as a sign of the love of man that dieth not, and a symbol of the sorrow of man that endureth for ever. And in the whole world there was no other bronze save the bronze of this image.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Y él mismo había moldeado esta imagen con sus propias manos, para ponerla sobre la tumba de la única cosa que había amado. Sobre la tumba de aquello que más había amado y que ahora estaba muerto, él puso la imagen que él mismo había moldeado para que sirviera como testigo del amor del hombre, que no muere, y como símbolo del dolor del hombre, que dura para siempre. Y en todo el mundo no existía más bronce, salvo el de esta imagen.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Ora esta imagem tinha-a elle proprio, e com sua proprias mãos, talhado, e tinha a posto sobre o tumulo da unica cousa que amára na vida. No tumulo da unica cousa que amára tinha posto esta imagem de seu talhar, para que servisse de typo do amor humano que não morre, e de symbolo da tristeza humana que sempre dura. E em todo o mundo não havia bronze a não ser o bronze d’esta imagem.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first"><p class="indent-first">Entonces a esta imagen la había él mismo, y con sus propias manos, tallado, y la había puesto sobre el túmulo de la única cosa que amara en la vida. En el túmulo de la única cosa que amara pusiera esta imagen de su tallar, para que sirviera de tipo del amor humano que no muere, y de símbolo de la tristeza humana que siempre dura. Y en todo el mundo no había bronce a no ser el bronce de esta imagen.</p>  </p>
-    </div>
-</div>
-
-
-<!-- Paragraph 4 -->
-<div class="row">
-    <div class="three columns">
-        <p class="indent-first">And he took the image he had fashioned, and set it in a great furnace, and gave it to the fire.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Entonces tomó la imagen que había moldeado y, arrojándola a un gran horno, la ofreció al fuego.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">E pegou na imagem que talhára e pôl-a n’uma fornalha e deu-a ao fogo.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Y tomó la imagen que tallara y la puso en una fragua y la dio al fuego. </p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="three columns">
-        <p class="indent-first">And out of the bronze of the image of <em>The Sorrow that Endureth for Ever</em> he fashioned an image of <em>The Pleasure that Abideth for a Moment</em>.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Y con el bronce de la imagen de <em>La tristeza que dura para siempre</em> moldeó la imagen de <em>El placer que se fija en un instante</em>.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">E do bronze da imagem da <em>Tristeza que sempre dura</em> talhou elle uma imagem do Prazer que dura um momento.</p>
-    </div>
-    <div class="three columns">
-        <p class="indent-first">Y del bronce de la imagen de la <em>Tristeza que siempre dura</em> talló él una imagen del <em>Placer que dura un momento</em>.</p>
-    </div>
-</div>
+{% endfor %}
