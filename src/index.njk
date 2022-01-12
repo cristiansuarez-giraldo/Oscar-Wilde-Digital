@@ -1,0 +1,55 @@
+--- 
+layout: _layouts/_base-layout
+pageTitle: Wilde Eafit
+---
+
+<style>
+.title {
+    text-align: center
+}
+.description {
+    text-align: center
+}
+.project-img-container {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.mt-10 {
+    padding-top: 10px
+}
+
+.btn {
+    display: block;
+    max-width: 200px;
+    border: solid black 1px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #111;
+    background: #eee;
+    font-size: 20px;
+}
+
+.btn:hover {
+    color: #eee;
+    background: #333; 
+}
+
+@media screen and (max-width: 600px) {
+    .project-img-container img{
+        width: 100%;
+    }
+}
+</style>
+
+<h1 class="title">Oscar Wilde Digital</h1>
+<p class="description">Un proyecto de edición y traducción colectiva en inglés, español y portugués</p>
+<div class="project-img-container">
+    <img width="300" src="/assets/img/wilde-portada.jpg" alt="Wilde Portada" />
+</div>
+<a class="btn center mt-10" href="/obras">Poemas en prosa</a>

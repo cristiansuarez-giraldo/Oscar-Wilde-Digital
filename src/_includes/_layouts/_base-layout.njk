@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+    {% include "_head.njk" %}
+    <body>
+        {% include "_top-navbar.njk" %}
+        <main class="container">
+            {{ content | safe }}
+        </main>
+        {% include "_footer.njk" %}
+    </body>
+</html>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <document>
+        <column mainLang="en">
+            <head>The Master</head>
+            <content>
+                <p rend="indent-first">Now when the darkness came over the earth <rs type="name" key="JOA4">Joseph of
+                    Arimathea</rs>, having lighted a torch of pinewood, passed down from the
+                    hill into the valley. For he had business in his own home.</p>
+                <p rend="indent-first">And kneeling on the flint stones of the <rs type="place"
+                    key="VOD4">Valley of Desolation</rs> he saw a <rs type="person" key="JOV4">young man</rs> who was naked and
+                    weeping. His hair was the colour of honey, and his body was as a white flower,
+                    but he had wounded his body with thorns and on his hair had he set ashes as a
+                    crown.</p>
+                <p rend="indent-first">And he who had great possessions said to the <rs type="person" key="JOV4">young man</rs> who
+                    was naked and weeping, "I do not wonder that your sorrow is so great, for surely
+                    He was a just man".</p>
+                <p rend="indent-first">And the <rs type="person" key="JOV4">young man</rs> answered, "It is not for Him that I am
+                    weeping, but for myself. I too have changed water into wine, and I have healed
+                    the leper and given sight to the blind. I have walked upon the waters, and from
+                    the dwellers in the tombs I have cast out devils. I have fed the hungry in the
+                    desert where there was no food, and I have raised the dead from their narrow
+                    houses, and at my bidding, and before a great multitude, of people, a barren
+                    fig-tree withered away. All things that this man has done I have done also. And
+                    yet they have not crucified me".</p>
+            </content>
+        </column>
+        <column mainLang="es" translatedFrom="en">
+            <head>El maestro</head>
+            <content>
+                <p rend="indent-first">Entonces cuando las tinieblas se habían ceñido sobre la tierra, <rs type="name"
+                    key="JOA4">José de Arimatea</rs>, encendiendo una antorcha de pino, bajó de
+                    la colina hasta el valle. Pues tenía asuntos en su propia casa.</p>
+                <p rend="indent-first">Y arrodillándose sobre los pedernales del <rs type="place"
+                    key="VOD4">Valle de la Desolación</rs> vio a un <rs type="person" key="JOV4">muchacho</rs> desnudo que
+                    lloraba. Sus cabellos eran del color de la miel y su cuerpo era como una flor
+                    blanca, pero había lacerado su cuerpo con espinas y había coronado sus cabellos
+                    con cenizas.</p>
+                <p rend="indent-first">Y él, que era un hombre muy rico, dijo al <rs type="person" key="JOV4">muchacho</rs> que
+                    estaba desnudo y que lloraba: “No me sorprende que tu dolor sea tan grande,
+                    porque en verdad Él era un hombre justo”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="JOV4">muchacho</rs> le respondió: “No es por Él que estoy
+                    llorando, sino por mí. Yo también transformé el agua en vino, yo también curé a
+                    los leprosos y les di la vista a los ciegos. Caminé sobre las aguas, y de los
+                    que habitan en las tumbas expulsé demonios. Alimenté a los hambrientos en el
+                    desierto, donde no había comida, y levanté a los muertos de sus estrechas
+                    moradas, y bajo mis órdenes, y ante una gran multitud de gente, una higuera
+                    estéril se marchitó. Todas las cosas que hizo ese hombre yo también las hice. Y,
+                    aun así, a mí no me han crucificado".</p>
+            </content>
+        </column>
+        <column mainLang="pt" translatedFrom="en">
+            <head>O mestre</head>
+            <content>
+                <p rend="indent-first">Ora quando as sombras caíam sobre a terra, <rs type="name" key="JOA4">José de
+                    Arimateia</rs>, tendo acendido um archote de pinho, desceu do monte para o
+                    vale. Porque tinha de que tratar em sua casa.</p>
+                <p rend="indent-first">E ajoelhando nos seixos do <rs type="place" key="VOD4">Valle
+                    da Desolação</rs>, viu um <rs type="person" key="JOV4">jovem</rs> que estava nu e chorando. O seu cabelo
+                    tinha a cor do mel e o seu corpo era como uma branca flor, mas rasgara o seu
+                    corpo com espinhos e sobre o seu cabelo deitara cinzas como uma coroa.</p>
+                <p rend="indent-first">E o que tinha grandes riquezas disse ao <rs type="person" key="JOV4">jovem</rs> que estava nu
+                    e chorando: "Não me admira que a tua magoa seja tão grande, porque com certeza
+                    Elle era um justo."</p>
+                <p rend="indent-first">E o <rs type="person" key="JOV4">jovem</rs> respondeu: "Não é por Ele que eu choro mas por
+                    mim. Eu também mudei água em vinho, e curei o leproso, e dei vista ao cego.
+                    Andei sobre as águas e dos que moram nos túmulos mandei sair os demónios.
+                    Alimentei os famintos no deserto onde não havia alimento, e levantei os mortos
+                    das suas casas estreitas, e diante de uma grande multidão uma figueira estéril
+                    secou. Tudo o que este homem fez, fiz eu também. E a mim não me
+                    crucificaram".</p>
+            </content>
+        </column>
+        <column mainLang="es" translatedFrom="pt">
+            <head>El maestro</head>
+            <content>
+                <p rend="indent-first">Entonces cuando las sombras caían sobre la tierra, <rs type="name" key="JOA4">José de Arimatea</rs>, 
+                    habiendo encendido una antorcha de pino, descendió del monte hacia el valle. 
+                    Porque tenía de que encargarse en su casa.</p>
+                <p rend="indent-first">Y arrodillándose en los guijarros del <rs type="place"
+                    key="VOD4">Valle de la Desolación</rs>, vio a un <rs type="person" key="JOV4">joven</rs> que estaba desnudo y
+                    llorando. Su cabello tenía el color de la miel y su cuerpo era como una blanca
+                    flor, pero rasgara su cuerpo con espinos y sobre su cabello echara cenizas como
+                    una corona.</p>
+                <p rend="indent-first">Y el que poseía grandes riquezas le dijo al <rs type="person" key="JOV4">joven</rs> que estaba
+                    desnudo y llorando: "No me sorprende que tu pena sea tan grande, porque
+                    ciertamente Él era un justo".</p>
+                <p rend="indent-first">Y el <rs type="person" key="JOV4">joven</rs> le respondió: "No es por Él que lloro sino por mí.
+                    Yo también cambié el agua por vino, y curé al leproso, y le di la vista al
+                    ciego. Anduve sobre las aguas y de los que habitan en los sepulcros mandé salir
+                    a los demonios. Alimenté a los hambrientos en el desierto donde no había
+                    alimento, y levanté a los muertos de sus estrechas casas, y ante una gran
+                    multitud una higuera estéril se secó. Todo lo que este hombre hizo, yo lo hice
+                    también. Y a mí no me crucificaron".</p>
+            </content>
+        </column>
+    </document>
+</TEI>

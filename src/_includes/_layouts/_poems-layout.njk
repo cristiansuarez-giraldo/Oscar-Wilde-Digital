@@ -1,0 +1,23 @@
+--- 
+layout: _layouts/_base-layout
+---
+
+<style>
+h1 {
+    color: #222;
+}
+h2 {
+    text-align: center;
+    color: #444;
+}
+p {
+    text-align: justify;
+}
+</style>
+
+<section class="poems">{{ content | safe }}</section>
+
+<section class="article-source">
+    <h5 class="text-center">Referencia</h5>
+    <p class="text-center">El XML TEI asociado a este poema se puede encontrar <a href="{{ xmlFileLink }}">en el siguiente enlace</a></p>
+</section>

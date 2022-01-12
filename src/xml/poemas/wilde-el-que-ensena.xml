@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <document>
+        <column>
+            <head>The Teacher of Wisdom</head>
+            <content>
+                <p rend="indent-first">From his childhood he had been as one filled with the perfect knowledge of <rs
+                    type="name" key="GOD6">God</rs>, and even while he was yet but a lad many of
+                    the saints, as well as certain holy women who dwelt in the free city of his
+                    birth, had been stirred to much wonder by the grave wisdom of his answers.</p>
+                <p rend="indent-first">And when his parents had given him the robe and the ring of
+                    manhood he kissed them, and left them and went out into the world, that he might
+                    speak to the world about <rs type="name" key="GOD6">God</rs>. For there were at
+                    that time many in the world who either knew not <rs type="name" key="GGOD6">God</rs> 
+                    at all, or had but an incomplete knowledge of Him, or worshipped
+                    the false gods who dwell in groves and have no care of their worshippers.</p>
+                <p rend="indent-first">And he set his face to the sun and journeyed, walking
+                    without sandals, as he had seen the saints walk, and carrying at his girdle a
+                    leathern wallet and a little water-bottle of burnt clay.</p>
+                <p rend="indent-first">And as he walked along the highway he was full of the joy
+                    that comes from the perfect knowledge of <rs type="name" key="GOD6">God</rs>,
+                    and he sang praises unto <rs type="name" key="GOD6">God</rs> without ceasing;
+                    and after a time he reached a strange land in which there were many cities.</p>
+                <p rend="indent-first">And he passed through eleven cities. And some of these
+                    cities were in valleys, and others were by the banks of great rivers, and others
+                    were set on hills. And in each city he found a disciple who loved him and
+                    followed him, and a great multitude also of people followed him from each city,
+                    and the knowledge of <rs type="name" key="GOD6">God</rs> spread in the whole
+                    land, and many of the rulers were converted, and the priests of the temples in
+                    which there were idols found that half of their gain was gone, and when they
+                    beat upon their drums at noon none, or but a few, came with peacocks and with
+                    offerings of flesh as had been the custom of the land before his coming.</p>
+                <p rend="indent-first">Yet the more the people followed him, and the greater the
+                    number of his disciples, the greater became his sorrow. And he knew not why his
+                    sorrow was so great. For he spake ever about <rs type="name" key="GOD6">God</rs>, 
+                    and out of the fulness of that perfect knowledge of <rs type="name"
+                    key="GOD6">God</rs> which <rs type="name" key="GOD6">God</rs> had Himself
+                    given to him.</p>
+                <p rend="indent-first">And one evening he passed out of the eleventh city, which
+                    was a city of <rs type="country">Armenia</rs>, and his disciples and a great crowd of people followed
+                    after him; and he went up on to a mountain and sat down on a rock that was on
+                    the mountain, and his disciples stood round him, and the multitude knelt in the
+                    valley.</p>
+                <p rend="indent-first">And he bowed his head on his hands and wept, and said to his
+                    Soul, "Why is it that I am full of sorrow and fear, and that each of my
+                    disciples is an enemy that walks in the noonday?".</p> 
+                <p rend="indent-first">And his Soul answered him and
+                    said, "<rs type="name" key="GOD6">God</rs> filled thee with the perfect
+                    knowledge of Himself, and thou hast given this knowledge away to others. The
+                    pearl of great price thou hast divided, and the vesture without seam thou hast
+                    parted asunder. He who giveth away wisdom robbeth himself. He is as one who
+                    giveth his treasure to a robber. Is not <rs type="name" key="GOD6">God</rs>
+                    wiser than thou art? Who art thou to give away the secret that <rs type="name"
+                    key="GOD6">God</rs> hath told thee? I was rich once, and thou hast made me
+                    poor. Once I saw <rs type="name" key="GOD6">God</rs>, and now thou hast hidden
+                    Him from me".</p>
+                <p rend="indent-first">And he wept again, for he knew that his Soul spake truth to
+                    him, and that he had given to others the perfect knowledge of <rs type="name"
+                    key="GOD6">God</rs>, and that he was as one clinging to the skirts of God,
+                    and that his faith was leaving him by reason of the number of those who believed
+                    in him.</p>
+                <p rend="indent-first">And he said to himself, "I will talk no more about <rs
+                    type="name" key="GOD6">God</rs>. He who giveth away wisdom robbeth
+                    himself".</p>
+                <p rend="indent-first">And after the space of some hours his disciples came near
+                    him and bowed themselves to the ground and said, "Master, talk to us about <rs
+                    type="name" key="GOD6">God</rs>, for thou hast the perfect knowledge of <rs
+                    type="name" key="GOD6">God</rs>, and no man save thee hath this
+                    knowledge".</p>
+                <p rend="indent-first">And he answered them and said, "I will talk to you about all
+                    other things that are in heaven and on earth, but about <rs type="name"
+                    key="GOD6">God</rs> I will not talk to you. Neither now, nor at any time,
+                    will I talk to you about <rs type="name" key="GOD6">God</rs>".</p>
+                <p rend="indent-first">And they were wroth with him and said to him, "Thou hast led
+                    us into the desert that we might hearken to thee. Wilt thou send us away hungry,
+                    and the great multitude that thou hast made to follow thee?".</p>
+                <p rend="indent-first">And he answered them and said, "I will not talk to you about
+                    <rs type="name" key="GOD6">God</rs>".</p>
+                <p rend="indent-first">And the multitude murmured against him and said to him,
+                    "Thou hast led us into the desert, and hast given us no food to eat. Talk to us
+                    about <rs type="name" key="GOD6">God</rs> and it will suffice us".</p>
+                <p rend="indent-first">But he answered them not a word. For he knew that if he
+                    spake to them about <rs type="name" key="GOD6">God</rs> he would give away his
+                    treasure.</p>
+                <p rend="indent-first">And his disciples went away sadly, and the multitude of
+                    people returned to their own homes. And many died on the way.</p>
+                <p rend="indent-first">And when he was alone he rose up and set his face to the
+                    moon, and journeyed for seven moons, speaking to no man nor making any answer.
+                    And when the seventh moon had waned he reached that desert which is the 
+                    <rs type="place" key="DGR6">desert of the Great River</rs>. And having found a cavern in which a Centaur had once dwelt,
+                    he took it for his place of dwelling, and made himself a mat of reeds on which
+                    to lie, and became a <rs type="person" key="HER6">hermit</rs>. And every hour the <rs type="person" key="HER6">Hermit</rs> praised <rs type="name"
+                    key="GOD6">God</rs> that He had suffered him to keep some knowledge of Him
+                    and of His wonderful greatness.</p>
+                <p rend="indent-first">Now, one evening, as the <rs type="person" key="HER6">Hermit</rs> was seated before the cavern
+                    in which he had made his place of dwelling, he beheld a <rs type="person" key="JOR6">young man</rs> of evil and <!--¿young man o young?-->
+                    beautiful face who passed by in mean apparel and with empty hands. Every evening
+                    with empty hands the <rs type="person" key="JOR6">young man</rs> passed by, and every morning he returned with his
+                    hands full of purple and pearls. For he was a Robber and robbed the caravans of
+                    the merchants.</p>
+                <p rend="indent-first">And the <rs type="person" key="HER6">Hermit</rs> looked at him and pitied him. But he spake
+                    not a word. For he knew that he who speaks a word loses his faith.</p>
+                <p rend="indent-first">And one morning, as the <rs type="person" key="JOR6">young man</rs> returned with his hands
+                    full of purple and pearls, he stopped and frowned and stamped his foot upon the
+                    sand, and said to the <rs type="person" key="HER6">Hermit</rs>: “Why do you look at me ever in this manner as I
+                    pass by? What is it that I see in your eyes? For no man has looked at me before
+                    in this manner. And the thing is a thorn and a trouble to me”.</p>
+                <p rend="indent-first">And the <rs type="person" key="HER6">Hermit</rs> answered him and said, “What you see in my
+                    eyes is pity. Pity is what looks out at you from my eyes”.</p>
+                <p rend="indent-first">And the <rs type="person" key="JOR6">young man</rs> laughed with scorn, and cried to the
+                    <rs type="person" key="HER6">Hermit</rs> in a bitter voice, and said to him, “I have purple and pearls in my
+                    hands, and you have but a mat of reeds on which to lie. What pity should you
+                    have for me? And for what reason have you this pity?”.</p>
+                <p rend="indent-first">"I have pity for you", said the <rs type="person" key="HER6">Hermit</rs>, "because you have no
+                    knowledge of <rs type="name" key="GOD6">God</rs>".</p>
+                <p rend="indent-first">"Is this knowledge of <rs type="name" key="GOD6">God</rs> a
+                    precious thing?" asked the <rs type="person" key="JOR6">young man</rs>, and he came close to the mouth of the
+                    cavern.</p>
+                <p rend="indent-first">"It is more precious than all the purple and the pearls of
+                    the world", answered the <rs type="person" key="HER6">Hermit</rs>.</p>
+                <p rend="indent-first">"And have you got it?" said the <rs type="person" key="JOR6">young Robber</rs>, and he came
+                    closer still.</p>
+                <p rend="indent-first">"Once, indeed", answered the <rs type="person" key="HER6">Hermit</rs>, "I possessed the
+                    perfect knowledge of <rs type="name" key="GOD6">God</rs>. But in my foolishness
+                    I parted with it, and divided it amongst others. Yet even now is such knowledge
+                    as remains to me more precious than purple or pearls".</p>
+                <p rend="indent-first">And when the <rs type="person" key="JOR6">young Robber</rs> heard this he threw away the
+                    purple and the pearls that he was bearing in his hands, and drawing a sharp
+                    sword of curved steel he said to the <rs type="person" key="HER6">Hermit</rs>, "Give me, forthwith this knowledge
+                    of <rs type="name" key="GOD6">God</rs> that you possess, or I will surely slay
+                    you. Wherefore should I not slay him who has a treasure greater than my
+                    treasure?".</p>
+                <p rend="indent-first">And the <rs type="person" key="HER6">Hermit</rs> spread out his arms and said, "Were it not
+                    better for me to go unto the uttermost courts of <rs type="name" key="GOD6">God</rs> 
+                    and praise Him, than to live in the world and have no knowledge of
+                    Him? Slay me if that be your desire. But I will not give away my knowledge of
+                    <rs type="name" key="GOD6">God</rs>".</p>
+                <p rend="indent-first">And the <rs type="person" key="JOR6">young Robber</rs> knelt down and besought him, but the
+                    <rs type="person" key="HER6">Hermit</rs> would not talk to him about <rs type="name" key="GOD6">God</rs>, nor give
+                    him his Treasure, and the <rs type="person" key="JOR6">young Robber</rs> rose up and said to the <rs type="person" key="HER6">Hermit</rs>, "Be it as
+                    you will. As for myself, I will go to the City of the Seven Sins, that is but
+                    three days journey from this place, and for my purple they will give me
+                    pleasure, and for my pearls they will sell me joy". And he took up the purple
+                    and the pearls and went swiftly away.</p>
+                <p rend="indent-first">And the <rs type="person" key="HER6">Hermit</rs> cried out and followed him and besought him.
+                    For the space of three days he followed the <rs type="person" key="JOR6">young Robber</rs> on the road and
+                    entreated him to return, nor to enter into the City of the Seven Sins.</p>
+                <p rend="indent-first">And ever and anon the <rs type="person" key="JOR6">young Robber</rs> looked back at the <rs type="person" key="HER6">Hermit</rs>
+                    and called to him, and said, "Will you give me this knowledge of <rs type="name"
+                    key="GOD6">God</rs> which is more precious than purple and pearls? If you
+                    will give me that, I will not enter the city".</p>
+                <p rend="indent-first">And ever did the <rs type="person" key="HER6">Hermit</rs> answer, “All things that I have I
+                    will give thee, save that one thing only. For that thing it is not lawful for me
+                    to give away”.</p>
+                <p rend="indent-first">And in the twilight of the third day they came nigh to the
+                    great scarlet gates of the City of the Seven Sins. And from the city there came
+                    the sound of much laughter.</p>
+                <p rend="indent-first">And the <rs type="person" key="JOR6">young Robber</rs> laughed in answer, and sought to knock
+                    at the gate. And as he did so the <rs type="person" key="HER6">Hermit</rs> ran forward and caught him by the
+                    skirts of his raiment, and said to him: "Stretch forth your hands, and set your
+                    arms around my neck, and put your ear close to my lips, and I will give you what
+                    remains to me of the knowledge of <rs type="name" key="GOD6">God</rs>". And the
+                    <rs type="person" key="JOR6">young Robber</rs> stopped.</p>
+                <p rend="indent-first">And when the <rs type="person" key="HER6">Hermit</rs> had given away his knowledge of <rs
+                    type="name" key="GOD6">God</rs>, he fell upon the ground and wept, and a
+                    great darkness hid from him the city and the <rs type="person" key="JOR6">young Robber</rs>, so that he saw them
+                    no more.</p>
+                <p rend="indent-first">And as he lay there weeping he was ware of One who was
+                    standing beside him; and He who was standing beside him had feet of brass and
+                    hair like fine wool. And He raised the <rs type="person" key="HER6">Hermit</rs> up, and said to him: "Before this
+                    time thou hadst the perfect knowledge of <rs type="name" key="GOD6">God</rs>.
+                    Now thou shalt have the perfect love of <rs type="name" key="GOD6">God</rs>.
+                    Wherefore art thou weeping?". And he kissed him.</p>
+            </content>
+        </column>
+        <column>
+            <head>El que enseña sabiduría</head>
+            <content>
+                <p rend="indent-first">Desde su infancia fue como uno que ha sido colmado del perfecto conocimiento de
+                    <rs type="name" key="GOD6">Dios</rs>, e incluso cuando era apenas un niño
+                    muchos de los santos, así como algunas santas mujeres que vivían en su ciudad
+                    natal, se maravillaban con la grave sabiduría de sus respuestas.</p>
+                <p rend="indent-first">Y cuando sus padres le entregaron la túnica y el anillo de
+                    la adultez, él los besó y los abandonó, y salió a recorrer el mundo, para poder
+                    hablarle al mundo sobre <rs type="name" key="GOD6">Dios</rs>, porque en ese
+                    tiempo había muchos en el mundo que no sabían nada de <rs type="name" key="GOD6">Dios</rs>, 
+                    o que tenían un conocimiento incompleto de Él, o que adoraban
+                    dioses falsos que habitan en las arboledas y a los que no les importaban sus
+                    devotos.</p>
+                <p rend="indent-first">Y entonces expuso su rostro al sol y viajó, caminando sin
+                    sandalias, como había visto que lo hacían los santos, cargando en su cinto una
+                    cartera de cuero y una cantimplora con agua hecha de arcilla quemada.</p>
+                <p rend="indent-first">Y mientras andaba por el camino iba lleno del júbilo que
+                    proviene del perfecto conocimiento de <rs type="name" key="GOD6">Dios</rs>, y le
+                    cantaba alabanzas a <rs type="name" key="GOD6">Dios</rs> sin cesar; y después de
+                    un tiempo llegó a una tierra desconocida en la que había muchas ciudades.</p>
+                <p rend="indent-first">Y pasó por once ciudades. Algunas ciudades estaban en
+                    valles, y otras junto a las orillas de grandes ríos, y otras estaban situadas
+                    sobre colinas. Y en cada ciudad encontró un discípulo que lo amaba y que lo
+                    seguía, y una gran multitud de personas de cada ciudad también lo siguió, y el
+                    conocimiento de <rs type="name" key="GOD6">Dios</rs> se esparció por toda la
+                    tierra, y muchos de los gobernantes se convirtieron, y los sacerdotes de los
+                    templos en los que había ídolos vieron cómo se esfumaba la mitad de sus
+                    ganancias, y cuando golpeaban sus tambores al mediodía nadie, o apenas unos
+                    pocos, venían con pavorreales y ofrendas de carne, como era la costumbre en esa
+                    tierra antes de que él llegara.</p>
+                <p rend="indent-first">Sin embargo, cuanta más gente lo seguía y mayor era el
+                    número de sus discípulos, mayor era su tristeza. Y él no entendía por qué era tan
+                    grande su tristeza. Porque él siempre hablaba sobre <rs type="name" key="GOD6">Dios</rs> 
+                    desde esa plenitud del conocimiento perfecto de <rs type="name"
+                    key="GOD6">Dios</rs> que el mismo <rs type="name" key="GOD6">Dios</rs> le
+                    había dado.</p>
+                <p rend="indent-first">Y una tarde atravesó la undécima ciudad, que era una ciudad
+                    de <rs type="country">Armenia</rs>, y sus discípulos y una gran multitud lo siguieron; y él subió a una
+                    montaña y se sentó en una roca de esa montaña, y sus discípulos se quedaron de
+                    pie junto a él, y la multitud se arrodilló en el valle.</p>
+                <p rend="indent-first">Y hundiendo la cabeza entre sus manos lloró, y dijo a su
+                    alma: “¿Por qué es que estoy lleno de tristeza y de miedo, y por qué cada uno de
+                    mis discípulos es como un enemigo que camina a plena luz del día?”.</p>
+                <p rend="indent-first">Y su alma le contestó diciendo: “<rs type="name" key="GOD6">Dios</rs> 
+                    te colmó del perfecto conocimiento de sí mismo, y tú entregaste
+                    ese conocimiento a otros. Repartiste la perla preciosa e hiciste girones el
+                    manto sin costuras. Aquel que entrega sabiduría se roba a sí mismo; es como
+                    aquel que entrega su fortuna a un ladrón. ¿Acaso <rs type="name" key="GOD6">Dios</rs> 
+                    no es más sabio que tú? ¿Quién eres tú para entregar el secreto
+                    que <rs type="name" key="GOD6">Dios</rs> te ha contado a ti? Yo era rica y tú me
+                    hiciste pobre. Yo vi a <rs type="name" key="GOD6">Dios</rs> y ahora tú hiciste
+                    que Él se oculte de mí”.</p>
+                <p rend="indent-first">Y volvió a llorar, porque sabía que su alma decía la verdad,
+                    y que él había dado a otros el perfecto conocimiento de <rs type="name"
+                    key="GOD6">Dios</rs>, y que él ahora era como quien se aferra a las faldas
+                    de <rs type="name" key="GOD6">Dios</rs>, y que su fe lo iba abandonando a medida
+                    que crecían en número aquellos que creían en él.</p>
+                <p rend="indent-first">Y se dijo a sí mismo: “Yo no hablaré más acerca de <rs
+                    type="name" key="GOD6">Dios</rs>. Aquel que da sabiduría se roba a sí
+                    mismo”.</p>
+                <p rend="indent-first">Y al cabo de unas horas, sus discípulos se le acercaron y se
+                    plegaron hasta el suelo y dijeron: “Maestro, háblanos de <rs type="name"
+                    key="GOD6">Dios</rs>, porque tú tienes el perfecto conocimiento de <rs
+                    type="name" key="GOD6">Dios</rs>, y ningún otro hombre salvo tú tiene este
+                    conocimiento”.</p>
+                <p rend="indent-first">Y él les respondió diciendo: “Yo les hablaré de todas las
+                    otras cosas que hay en el cielo y en la tierra, pero de <rs type="name"
+                    key="GOD6">Dios</rs> ya no les hablaré, ni ahora ni nunca más les hablaré yo
+                    de <rs type="name" key="GOD6">Dios</rs>”.</p>
+                <p rend="indent-first">Y ellos, enfurecidos contra él, dijeron: “Tú nos trajiste al
+                    desierto para que te escuchemos. ¿Nos harás partir hambrientos a nosotros y a la
+                    multitud que hiciste que te siga?”.</p>
+                <p rend="indent-first">Y él les contestó diciendo: “Yo no les hablaré de <rs
+                    type="name" key="GOD6">Dios</rs>”.</p>
+                <p rend="indent-first">Y la multitud murmuró en su contra y dijo: “Tú nos has
+                    traído al desierto y no nos has dado comida para alimentarnos. Háblanos de <rs
+                    type="name" key="GOD6">Dios</rs> y eso nos dejará satisfechos”.</p>
+                <p rend="indent-first">Pero él no les respondió con ninguna palabra, porque sabía
+                    que si les hablaba de <rs type="name" key="GOD6">Dios</rs> estaría entregando su
+                    tesoro.</p>
+                <p rend="indent-first">Y sus discípulos se alejaron entristecidos, y la multitud
+                    regresó a sus casas. Y muchos murieron en el camino.</p>
+                <p rend="indent-first">Y cuando estuvo solo, se levantó y expuso su rostro a la
+                    luna, y viajó durante siete lunas, sin hablar con ningún hombre ni responder
+                    preguntas. Y cuando la séptima luna menguaba llegó a un desierto, que es el
+                    <rs type="place" key="DGR6">desierto del Gran Río</rs>. Y al encontrar una caverna en la que antes habitara un
+                    centauro, la tomó como su morada, se hizo una estera de ramas para tenderse y se
+                    convirtió en <rs type="person" key="HER6">Eremita</rs>. Y a cada hora el <rs type="person" key="HER6">Eremita</rs> alababa a <rs type="name"
+                    key="GOD6">Dios</rs> por haberle permitido conservar algo del conocimiento
+                    de Sí mismo y de su maravillosa grandeza.</p>
+                <p rend="indent-first">Y, una noche, cuando el <rs type="person" key="HER6">Eremita</rs> estaba sentado frente a la
+                    caverna en que había hecho su morada, contempló a un <rs type="person" key="JOR6">joven</rs> de cara malvada y
+                    hermosa que pasó con fea vestimenta y las manos vacías. Y todas las noches el
+                    <rs type="person" key="JOR6">joven</rs> pasaba con las manos vacías, y todas las mañanas volvía a pasar con las
+                    manos llenas de telas color púrpura y perlas. Porque era un Ladrón y robaba las
+                    caravanas de los mercaderes.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HER6">Eremita</rs> lo miraba y sentía compasión de él. Pero no
+                    dijo una sola palabra, porque sabía que aquel que habla pierde su fe.</p>
+                <p rend="indent-first">Y una mañana, mientras el <rs type="person" key="JOR6">joven</rs> regresaba con sus manos
+                    llenas de telas color púrpura y perlas, se detuvo, y frunciendo el ceño y
+                    pisando fuerte la arena con su pie, le dijo al <rs type="person" key="HER6">Eremita</rs>: “¿Por qué siempre me
+                    miras de esta manera cuando paso por aquí? ¿Qué es eso que veo en tus ojos?
+                    Porque ningún hombre me ha mirado así antes. Y esto es una molestia que me
+                    aqueja y es como una espina para mí”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HER6">Eremita</rs> le respondió diciendo: “Lo que ves en mis ojos
+                    es compasión. Es la compasión que desde mis ojos te mira”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="JOR6">joven</rs> rio con desprecio, y gritándole al <rs type="person" key="HER6">Eremita</rs>, con
+                    voz amarga, le dijo: “Yo tengo telas de color púrpura y perlas en mis manos, y
+                    tú no tienes sino una estera de ramas sobre la cual acostarte. ¿Qué compasión
+                    podrías sentir tú de mí? ¿Y por qué razón sentirías tú esa compasión?”.</p>
+                <p rend="indent-first">“Yo siento compasión de ti”, dijo el <rs type="person" key="HER6">Eremita</rs>, “porque tú no
+                    tienes ningún conocimiento de <rs type="name" key="GOD6">Dios</rs>”.</p>
+                <p rend="indent-first">“¿Es acaso ese conocimiento de <rs type="name" key="GOD6">Dios</rs> 
+                    una cosa preciosa?”, preguntó el <rs type="person" key="JOR6">joven</rs>, acercándose a la boca de
+                    la caverna.</p>
+                <p rend="indent-first">“Es más precioso que todas las telas color púrpura y todas
+                    las perlas del mundo”, contestó el <rs type="person" key="HER6">Eremita</rs>.</p>
+                <p rend="indent-first">“¿Y tú lo tienes?”, preguntó el <rs type="person" key="JOR6">joven Ladrón</rs> y se acercó más <!--¿Etiquetamos juntas las palabras <rs type="person">joven Ladrón</rs>?-->
+                    todavía.</p>
+                <p rend="indent-first">“Lo tuve, sí”, contestó el <rs type="person" key="HER6">Eremita</rs>, “Yo poseí el perfecto
+                    conocimiento de <rs type="name" key="GOD6">Dios</rs>. Pero en mi estupidez me
+                    desprendí de él y lo compartí con otros. Y, sin embargo, el conocimiento que me
+                    queda sigue siendo para mí más precioso que las telas color púrpura o las
+                    perlas".</p>
+                <p rend="indent-first">Y cuando el <rs type="person" key="JOR6">joven</rs> Ladrón oyó esto arrojó las telas color <!--Igual aquí.-->
+                    púrpura y las perlas que cargaba en sus manos y, desenfundando una afilada
+                    espada de acero curvado, dijo al <rs type="person" key="HER6">Eremita</rs>: “Dame en este instante ese
+                    conocimiento de <rs type="name" key="GOD6">Dios</rs> que posees, o seguro te
+                    mataré. ¿Crees que no he de matar a quien tiene un tesoro mayor que el
+                    mío?”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HER6">Eremita</rs> extendió los brazos y dijo: “¿Crees que no
+                    sería mejor para mí ir a las más elevadas cortes de <rs type="name" key="GOD6">Dios</rs> 
+                    y alabarlo, que vivir en este mundo sin tener ningún conocimiento
+                    de Él? Mátame si es eso es lo que deseas. Pero yo no entregaré mi conocimiento
+                    de <rs type="name" key="GOD6">Dios</rs>”.</p>
+                <p rend="indent-first">Y el <rs type="person" key="JOR6">joven Ladrón</rs> se arrodilló suplicándole, pero el <rs type="person" key="HER6">Eremita</rs>
+                    no quiso hablarle de <rs type="name" key="GOD6">Dios</rs>, ni entregarle su
+                    tesoro, y el <rs type="person" key="JOR6">joven Ladrón</rs> se levantó y le dijo : “Sea como tú quieres. Por mi
+                    parte, iré a la <rs type="place"><rs type="place">Ciudad de los Siete Pecados</rs></rs>, que queda tan solo a tres días de
+                    viaje desde aquí, y por mis telas color púrpura me darán placer, y por mis
+                    perlas me venderán alegría”. Y levantando las telas color púrpura y las perlas
+                    se marchó rápidamente.</p>
+                <p rend="indent-first">Y el <rs type="person" key="HER6">Eremita</rs> gritó, siguiéndolo y suplicándole. Durante tres
+                    días el <rs type="person" key="HER6">Eremita</rs> siguió al <rs type="person" key="JOR6">joven Ladrón</rs> por la carretera intentando persuadirlo
+                    de que regresara y de que no entrase en la <rs type="place">Ciudad de los Siete Pecados</rs>.</p>
+                <p rend="indent-first">Y cada vez que el <rs type="person" key="JOR6">joven Ladrón</rs> volvía la mirada al <rs type="person" key="HER6">Eremita</rs>,
+                    llamándolo, le decía: “¿Me darás el conocimiento de <rs type="name" key="GOD6">Dios</rs> 
+                    que es más precioso que las telas color púrpura y las perlas? Si
+                    tú me lo das, yo no entraré en la ciudad".</p>
+                <p rend="indent-first">Y cada vez el <rs type="person" key="HER6">Eremita</rs> contestaba: “Todo lo que tengo te lo
+                    daré, salvo esa única cosa. Porque esa cosa no me es lícito entregarla”.</p>
+                <p rend="indent-first">Y en el crepúsculo del tercer día se acercaron a las grandes
+                    puertas escarlata de la <rs type="place">Ciudad de los Siete Pecados</rs>. Y desde adentro de la
+                    ciudad llegaba el ruido de muchas risas.</p>
+                <p rend="indent-first">Y el <rs type="person" key="JOR6">joven Ladrón</rs> respondió riendo también, y se dispuso a
+                    tocar la puerta. Y mientras lo hacía, el <rs type="person" key="HER6">Eremita</rs> corrió hasta él y lo agarró de
+                    las faldas de su túnica, y le dijo: “Extiende tus manos y abrázame por el
+                    cuello, y pon tu oído cerca a mis labios, y te daré lo que me queda del
+                    conocimiento de <rs type="name" key="GOD6">Dios</rs>”. Y el <rs type="person" key="JOR6">joven Ladrón</rs> se
+                    detuvo.</p>
+                <p rend="indent-first">Y cuando el <rs type="person" key="HER6">Eremita</rs> había entregado todo su conocimiento de
+                    <rs type="name" key="GOD6">Dios</rs>, cayó al suelo y lloró, y una densa
+                    oscuridad cubrió la ciudad y al <rs type="person" key="JOR6">Ladrón</rs>, para que él ya no pudiera verlos.</p>
+                <p rend="indent-first">Y mientras estaba tendido y llorando, sintió la presencia de
+                    alguien que estaba de pie junto a él; y el que estaba de pie junto a él tenía
+                    los pies de cobre y sus cabellos eran finos como la lana. Y levantando al
+                    <rs type="person" key="HER6">Eremita</rs>, le dijo: “Otrora tenías el conocimiento perfecto de <rs type="name"
+                    key="GOD6">Dios</rs>. Ahora tendrás el perfecto amor de <rs type="name"
+                    key="GOD6">Dios</rs>. ¿Por qué lloras entonces?”. Y lo besó.</p>
+            </content>
+        </column>
+    </document>
+</TEI>
