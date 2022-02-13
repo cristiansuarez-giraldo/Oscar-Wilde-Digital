@@ -8,15 +8,18 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
 
 <!-- Links rendered on Top -->
 {% set links = [ 
-        { 
-            legend: "Pessoa O Artista 1",
-            href: "/assets/img/facsimiles/Pessoa-O_Artista_1.jpg"
-        },
-        { 
-            legend: "Pessoa O Artista 2",
-            href: "/assets/img/facsimiles/Pessoa-O_Artista_2.jpg"
-        }
-    ] 
+    { 
+        
+        legend: "Pessoa O Artista 1",
+        facsPage: "[BNP 94-9r]",
+        href: "/assets/img/facsimiles/Pessoa-O_Artista_1.jpg"
+    },
+    { 
+        legend: "Pessoa O Artista 2",
+        facsPage: "[BNP 94-10r]",
+        href: "/assets/img/facsimiles/Pessoa-O_Artista_2.jpg"
+    }
+] 
 %} 
 
 
@@ -25,6 +28,7 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
     [ "O artista", "El artista" ],
     [
         '
+            <span class="page-indicator facs-PA1"> [BNP 94-9r] </span> <br />
             Uma tarde veio-lhe á alma o <br />
             desejo de talhar uma imagem do <br />
             <u>Prazer que dura um momento</u>. E <br />
@@ -32,6 +36,7 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
             ze. Porque não pensava senão por bronze.
         ',
         '
+            <span class="page-indicator facs-PA1"> [BNP 94-9r] </span> <br />
             Una tarde le vino al alma el <br />
             deseo de tallar una imagen del <br />
             <u>Placer que dura un momento</u>. Y <br />
@@ -62,6 +67,7 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
             mãos, talhado, e tinha-a posto <br />
             sobre o tumulo da unica cousa que <br />
             amára na vida. No tumulo da <br />
+            <span class="page-indicator facs-PA2"> [BNP 94-10r] </span> <br />
             unica cousa que amára tinha posto <br />
             esta imagem de seu talhar, para <br />
             que servisse de typo do amor huma- <br />
@@ -74,6 +80,7 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
             manos, tallado, y la había puesto <br />
             sobre el túmulo de la única cosa que <br />
             amara en la vida. En el túmulo de la <br />
+            <span class="page-indicator facs-PA2"> [BNP 94-10r] </span> <br />
             única cosa que amara había puesto <br />
             esta imagen de su tallar, para <br />
             que sirviera de tipo del amor huma- <br />
@@ -107,7 +114,18 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
 %}
 
 <style>
-    /* Link styles can go here! */
+.page-indicator {
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  font-weight: bold;
+}
+.wilde-document-link {
+  margin-right: 15px;
+}
+.facs-page {
+  font-weight: bold;
+}
 </style>
 
 <h4 class="text-center">Referencias externas del documento</h4>
@@ -118,7 +136,8 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
     <ul>
         {% for link in links %}
             <li class="text-center">
-                <a href="{{ link.href }}" target="_blank">{{ link.legend }}</a>
+                <a class="wilde-document-link" href="{{ link.href }}" target="_blank">{{ link.legend }}</a>
+                <span class="facs-page">{{ link.facsPage }}</span>
             </li>
         {% endfor %}
     </ul>
