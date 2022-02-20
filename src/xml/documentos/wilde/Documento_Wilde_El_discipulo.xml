@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="en" otherLangs="es"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/18">"The Disciple", page 1</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/19">"The Disciple", page 2</ref>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">The Disciple.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>When Narcissus died
+                        <lb break="yes"/>the pool of his pleasure changed
+                        <lb break="yes"/>from a cup of sweet waters
+                        <lb break="yes"/>into a cup of salt tears. And
+                        <lb break="yes"/>the Oreads <hi rend="overstrike">went</hi> [↑ came] weeping through
+                        <lb break="yes"/>the woodlands, that they might talk
+                        <lb break="yes"/>to the <hi rend="overstrike">And the Oreads</hi> pool and
+                        <lb break="yes"/>give it comfort.</p>
+                <p rend="indent-first"><lb break="yes"/>And when they saw that
+                        <lb break="yes"/>the pool had changed from a cup
+                        <lb break="yes"/>of sweet waters into a cup of
+                        <lb break="yes"/>salt tears they <hi rend="overstrike">called to it</hi><pb facs="PA1">Page 1</pb>
+                        <lb break="yes"/>loosened the green tresses of their hair and
+                        <lb break="yes"/>[↑ wept again] <hi rend="overstrike">called to the pool</hi> and
+                        <lb break="yes"/>said "We do not wonder that
+                        <lb break="yes"/>you should <hi rend="overstrike">grieve</hi> mourn in this
+                        <lb break="yes"/>manner for Narcissus, so beautiful
+                        <lb break="yes"/>was he."</p>
+                <p rend="indent-first"><lb break="yes"/>"But was Narcissus beautiful?"
+                        <lb break="yes"/>said the pool.</p>
+                <p rend="indent-first"><lb break="yes"/>"Who should know that
+                        <lb break="yes"/>better than you?" answered the
+                        <lb break="yes"/>Oreads. "Us did he ever pass
+                        <lb break="yes"/>by, but <hi rend="overstrike">thee</hi> [↑ you] he sought for, and would lie on <hi rend="overstrike">thy</hi> [↑ your] banks and
+                        <lb break="yes"/>look down at <hi rend="overstrike">thee</hi> [↑ you], and in the
+                        <lb break="yes"/>mirror of <hi rend="overstrike">thy</hi> [↑ your] waters he would
+                        <lb break="yes"/>mirror his own beauty."</p>
+                <p rend="indent-first"><lb break="yes"/>And the river pool answered "But
+                        <lb break="yes"/>I loved Narcissus because as he
+            <pb facs="PA1">Page 2</pb>
+                        <lb break="yes"/>lay on my banks and looked
+                        <lb break="yes"/>down at me, in the mirror of
+                        <lb break="yes"/>his eyes I saw ever my own
+                        <lb break="yes"/>beauty mirrored."</p>                
+                </div>
+                <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">El discípulo.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>Cuando Narciso murió,
+                        <lb break="yes"/>la fuente de sus placeres dejó
+                        <lb break="yes"/>de ser un estanque de aguas dulces
+                        <lb break="yes"/>y se transformó en un estanque de lágrimas saladas, y
+                        <lb break="yes"/>las Oréades <hi rend="overstrike">fueron</hi> [↑ vinieron] sollozando por
+                        <lb break="yes"/>el bosque para cantarle
+                        <lb break="yes"/><hi rend="overstrike">Y las Oréades</hi> a la fuente y 
+                        <lb break="yes"/>darle consuelo.</p>
+                <p rend="indent-first"><lb break="yes"/>Y cuando vieron que
+                        <lb break="yes"/>la fuente ya no era un estanque
+                        <lb break="yes"/>de aguas dulces sino un estanque de
+                        <lb break="yes"/>lágrimas saladas, <hi rend="overstrike">le llamaron</hi>
+                        <lb break="yes"/>soltaron las trenzas de sus verdes cabellos y
+                        <lb break="yes"/>[↑ lloraron] <hi rend="overstrike">llamando</hi> sobre <hi rend="overstrike">a</hi> la fuente
+                        <lb break="yes"/>diciéndole: “No nos sorprende que
+                        <lb break="yes"/><hi rend="overstrike">te aflijas</hi> guardes este luto por Narciso, tan hermoso
+                        <lb break="yes"/>era”.</p>
+                <p rend="indent-first"><lb break="yes"/>“¿Acaso Narciso era hermoso?”,
+                        <lb break="yes"/>dijo la fuente.</p>
+                <p rend="indent-first"><lb break="yes"/>“¿Y quién debería saberlo
+                        <lb break="yes"/>mejor que tú?”, respondieron las Oréades. “A nosotras ni siquiera nos
+                        <lb break="yes"/>miraba, fue a <hi rend="overstrike">tu</hi> [↑ ti] que él buscó, y recostado <hi rend="overstrike">en</hi> junto a <hi rend="overstrike">tus</hi> [↑ tus] orillas <hi rend="overstrike">a ti</hi> [↑ te] miraba
+                        <lb break="yes"/>fijamente,
+                        <lb break="yes"/>y en el espejo de tus aguas veía
+                        <lb break="yes"/>su propia belleza reflejada.”</p>
+                <p rend="indent-first"><lb break="yes"/>Y la fuente respondió, “Pero
+                        <lb break="yes"/>yo amaba a Narciso porque cuando se
+            <pb facs="PA1">Page 2</pb>
+                        <lb break="yes"/>recostaba junto a mis orillas y me miraba
+                        <lb break="yes"/>fijamente, en el espejo de sus ojos yo veía siempre mi propia
+                        <lb break="yes"/>belleza reflejada”.</p>                
+                </div>
+                    
+        </body>
+    </text>
+</TEI>

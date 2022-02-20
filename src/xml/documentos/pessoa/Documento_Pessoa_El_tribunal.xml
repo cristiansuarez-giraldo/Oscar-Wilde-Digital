@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
+<facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes"> <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
+    <graphic url="Pessoa-A-casa-do-juizo-1.jpg" xml:id="PC1"/>
+    <graphic url="Pessoa-A-casa-do-juizo-2.jpg" xml:id="PC2"/>
+    <graphic url="Pessoa-A-casa-do-juizo-3.jpg" xml:id="PC3"/>
+    <graphic url="Pessoa-A-casa-do-juizo-4.jpg" xml:id="PC4"/>
+</facsimile>
+<text>
+    <body>
+        <div>
+        <pb facs="PC1">[BNP 94-14r]</pb> <!--Jorge, incluir número del facsimilar que no supe cómo incluir-->
+             <head><hi rend="underline">A Casa de Juizo</hi></head>
+            <p><lb break="yes"/>E havia silencio na Casa de Juizo e o Homem apareceu
+                <lb break="yes"/>nú ante Deus.</p>
+            <p><lb break="yes"/>E Deus abriu o Livro da Vida do Homem.</p>
+            <p><lb break="yes"/>E Deus disse ao Homem: “A tua vida tem sido [↑ foi] má,
+                <lb break="yes"/>e mostraste crueldade aos que precisavam <hi rend="overstrike">auxilio</hi> [↑ socorro] e aos [↑ para os] 
+                <lb break="yes"/>que precisavam auxilio foste amargo e duro de coração.
+                <lb break="yes"/>Os pobres chamaram por ti e tu não ouviste, e os teus
+                <lb break="yes"/>ouvidos estavam cerrados contra [↑ ao] grito dos Meus afflictos.
+                <lb break="yes"/>Tiraste para ti a herança do orphão e <hi rend="overstrike">mandaste</hi> [↑ fizeste entrar]
+                <lb break="yes"/>raposas na vinha do <hi rend="overstrike">teu</hi> quintal do teu proximo [↑ vizinho]. Tiraste
+                <lb break="yes"/>o pão das creanças e deste-<hi rend="overstrike">mo</hi>o a comer aos cães, e aos
+                <lb break="yes"/>Meus leprosos que viviam nos pantanos e tinham paz
+                <lb break="yes"/>e Me louvavam, tu os expulsaste para as estradas /reaes/
+                <lb break="yes"/>e sobre a Minha terra de que eu te fiz derramaste 
+                <lb break="yes"/>sangue inocente."</p>
+            <p><lb break="yes"/>E o Homem respondeu e disse: “Tudo isso eu fiz”.</p>
+            <p><lb break="yes"/>E outra vez Deus abriu o Livro da Vida do Homem.</p>
+            <p><lb break="yes"/>E Deus disse ao Homem: “A tua vida foi má,
+                <lb break="yes"/>e a Belleza que te /a/mostrei buscaste e *ao Bom que <!--Falta etiqutar: * No supe qué se está marcando-->
+                <lb break="yes"/>eu escondi passaste por elle desprezando-o. Os muros
+                <lb break="yes"/>do teu /quarto/ eram pintados com imagens e do leito das <!--Jorge, Falta etiquetar lo que está entre /.../-->
+                <lb break="yes"/>tuas abominações te levantavas ao som de flautas.
+                <lb break="yes"/>Levantaste 7 altares aos pecados que eu /permitira/ <!--Jorge, Falta etiquetar lo que está entre /.../-->
+                <lb break="yes"/>e comeste do que não devias ter comido, e a purpura
+                <lb break="yes"/>das tuas vestes tinha bordados os 3 signaes da vergonha.
+                <lb break="yes"/>Os teus idolos não eram nem de ouro nem de prata que 
+        <pb facs="PC2">[BNP 94-15r]</pb> <!--Jorge, incluir número del facsimilar que no supe cómo incluir-->
+                <lb break="yes"/>duram, mas de carne que perece. Manchaste-lhes os
+                <lb break="yes"/>cabellos <hi rend="overstrike">com</hi> perfume e puseste romãs nas suas mãos.
+                <lb break="yes"/>Manchaste-lhes os pés com açafrão e estendeste tapetes
+                <lb break="yes"/>ante elles. Com antimonio lhes tingiste as palpebras e
+                <lb break="no"/>os corpos com ungiste de myrrha. Ante elles te in-
+                <lb break="yes"/>clinaste até o chão e os thronos dos teus ídolos
+                <lb break="yes"/>estavam postos ao sol. Mostraste ao sol a tua
+                <lb break="yes"/>vergonha e á lua a tua loucura.”</p>
+            <p><lb break="yes"/>E o Homem respondeu e disse: “Tudo isso eu fiz.”</p>
+            <p><lb break="yes"/>E <hi rend="overstrike">uma</hi> [↑ <hi rend="overstrike">por</hi> pela] terceira vez Deus abriu o Livro da Vida do Homem.</p>
+            <p><lb break="yes"/>E Deus disse ao Homem: “Má /fora/[↑ /foi/] a tua vida, e com 
+                <lb break="yes"/>o mal pagaste o bom e com maldade a doçura.
+                <lb break="yes"/>Ás mãos que te alimentaram feriste e aos seios que
+                <lb break="yes"/>te amamentaram desprezaste. O que veio para ti com
+                <lb break="yes"/>agua <hi rend="overstrike">deixas-te</hi> foi de ti sedento e aos homens banidos
+                <lb break="yes"/>que te esconderam de noite nas suas tendas traiste
+                <lb break="yes"/>tu antes da madrugada. Ao teu inimigo que te
+                <lb break="yes"/>poupou □ n’uma ambuscada, e ao amigo 
+                <lb break="yes"/>que andava contigo vendeste por um preço e aos
+                <lb break="no"/>que te trouxeram Amor deste em troca a Lu-
+                <lb break="yes"/>xuria”.</p>
+            <p><lb break="yes"/>E o Homem respondeu e disse: “Tudo isso eu
+                <lb break="yes"/>fiz."</p>
+            <p><lb break="yes"/>E Deus fechou o Livro da Vida do Homem e disse: <!--¿Los dos puntos del final de la línea son adiciones? No los identifico en el manuscrito-->
+                <lb break="yes"/>"Por certo que te mandarei para o Inferno. Mesmo
+                <lb break="yes"/>para o Inferno te mandarei.”</p>
+            <p><lb break="yes"/>E o Homem gritou: “Não podes.”</p>
+            <p><lb break="yes"/>E Deus disse ao Homem: “Por que não te posso eu
+                <lb break="yes"/>mandar para o Inferno, e por que razão?”
+        <pb facs="PC3">[BNP 94-15r]</pb> <!--Jorge, incluir número del facsimilar que no supe cómo incluir-->
+                <lb break="yes"/>“Porque no Inferno tenho eu sempre vivido” respondeu o
+                <lb break="yes"/>Homem.</p>
+            <p><lb break="yes"/>E houve silencio na Casa de Juizo.</p>
+            <p><lb break="yes"/>E depois de um tempo Deus fallou e disse ao Homem:
+                <lb break="yes"/>“Visto que não te posso mandar para o Inferno,
+                <lb break="yes"/>por certo que te mandarei para o Céu. Mesmo para
+                <lb break="yes"/>o Céu te mandarei.”</p>
+            <p><lb break="yes"/>E o Homem clamou: “Não podes.”</p>
+            <p><lb break="yes"/>E Deus disse ao Homem: “Por que não te poderei
+                <lb break="yes"/>eu mandar para o Céu, e por que razão?”
+                <lb break="yes"/>“Porque nunca e em nenhum lugar pude
+                <lb break="yes"/>imaginal-o” respondeu o Homem.</p>
+            <p><lb break="yes"/>E houve silencio na Casa de Juizo.</p>
+        <pb facs="PC4">[BNP 94-15r]</pb> <!--Jorge, ¿Vamos a marcar e inclur la cuarta imagen aunque no tenga texto?-->
+        </div>
+        <div>
+            <head><hi rend="underline">El tribunal</hi></head>
+            <p><lb break="yes"/>Y había silencio en El Tribunal y el hombre apareció desnudo
+                <lb break="yes"/>ante Dios.</p>
+            <p><lb break="yes"/>Y Dios abrió el Libro de la Vida del Hombre.</p>
+            <p><lb break="yes"/>Y Dios le dijo al Hombre: "Tu vida ha sido mala [↑ fue],
+                <lb break="yes"/>y mostraste crueldad a los que necesitaban <hi rend="overstrike">auxilio</hi> [↑ socorro] y a los [↑ con quienes] 
+                <lb break="yes"/>que pedían auxilio fuiste amargo y duro de corazón.
+                <lb break="yes"/>Los pobres te llamaron y tú no oíste, y tus
+                <lb break="yes"/>oídos se cerraron contra el [↑ al] grito de Mis afligidos.
+                <lb break="yes"/>Tomaste la herencia del huérfano y <hi rend="overstrike">mandaste</hi> [↑ hiciste entrar]
+                <lb break="yes"/>zorros a la viña del <hi rend="overstrike">tu</hi> quintal de tu prójimo [↑ vecino]. Quitaste
+                <lb break="yes"/>el pan a los niños y <hi rend="overstrike">se</hi> lo diste de comer a los perros, y a
+                <lb break="yes"/>Mis leprosos que vivían en los pantanos y tenían paz
+                <lb break="yes"/>paz y Me adoraban, tú los expulsaste hacia los caminos /reales/
+                <lb break="yes"/>y sobre Mi tierra, de la que te hice, derramaste
+                <lb break="yes"/>sangre inocente".</p>
+            <p><lb break="yes"/>Y el hombre respondió y dijo: "Todo eso hice".</p>
+            <p><lb break="yes"/>Y Dios abrió otra vez el Libro de la Vida del Hombre.</p>
+            <p><lb break="yes"/>Y Dios le dijo al Hombre: "Tu vida fue mala,
+                <lb break="yes"/>y buscaste la Belleza que te <hi rend="overstrike">de</hi>mostré y pasaste por el Bien que <!--Jorge, revisar que esté correcta esta transcripción-->
+                <lb break="yes"/>yo escondí, despreciándolo. Los muros
+                <lb break="yes"/>de tu /cuarto/ estaban pintados con imágenes y del lecho de
+                <lb break="yes"/>tus abominaciones te levantabas al son de flautas.
+                <lb break="yes"/>Levantaste 7 altares a los pecados que /permitiera/
+                <lb break="yes"/>y comiste de lo que no debías haber comido, y el púrpura
+                <lb break="yes"/>de tus vestiduras tenía bordadas las tres señales de la vergüenza.
+                <lb break="yes"/>Tus ídolos no eran de oro ni de plata, que
+                <lb break="yes"/>duran, sino de carne, que perece. Les manchaste los
+                <lb break="yes"/>cabellos con perfume y pusiste granadas en sus manos. <!--Jorge, en la versión en portugués la palabra con aparece tachada y aquí no-->
+                <lb break="yes"/>Les manchaste los pies con azafrán y extendiste tapetes
+                <lb break="yes"/>ante ellos. Con antimonio les teñiste los párpados y
+                <lb break="no"/>los cuerpos <hi rend="overstrike">con</hi> ungiste de mirra. Te in-
+                <lb break="yes"/>clinaste hasta el suelo ante ellos y sus tronos
+                <lb break="yes"/>estaban puestos al sol. Mostraste al sol tu
+                <lb break="yes"/>vergüenza y a la luna tu locura."</p>
+            <p><lb break="yes"/>Y el hombre respondió y dijo: "Todo eso hice yo".</p>
+            <p><lb break="yes"/>Y <hi rend="overstrike">una</hi> [↑ <hi rend="overstrike">por</hi> por la] tercera vez Dios abrió el Libro de la Vida del Hombre.</p>
+            <p><lb break="yes"/>Y Dios le dijo al hombre: "Mala /fuera/ [↑ /fue/] tu vida, y con
+                <lb break="yes"/>el mal pagaste el bien y con maldad la dulzura.
+                <lb break="yes"/>A las manos que te alimentaron heriste y a los senos que
+                <lb break="yes"/>te amamantaron depreciaste. El que vino a ti con
+                <lb break="yes"/>agua <hi rend="overstrike">dejaste</hi> se fue sediento y a los exiliados 
+                <lb break="yes"/>que te escondieron durante la noche en sus tiendas tu traicionaste
+                <lb break="yes"/>antes de la madrugada. Al enemigo que te
+                <lb break="yes"/>perdonó □ en una emboscada, y al amigo
+                <lb break="yes"/>que andaba contigo vendiste por un precio y a los
+                <lb break="no"/>que te trajeron Amor les diste a cambio Lu
+                <lb break="yes"/>juria”.</p>
+            <p><lb break="yes"/>Y el hombre respondió y dijo: "Todo eso hice <!--Corroborar la partición de estas dos líneas-->
+                <lb break="yes"/>yo."</p>
+            <p><lb break="yes"/>Y Dios cerró el Libro de la Vida del Hombre y dijo:
+                <lb break="yes"/>"Ciertamente he de mandarte al Infierno. Justo
+                <lb break="yes"/>al Infierno te mandaré".</p>
+            <p><lb break="yes"/>Y el hombre gritó: "No puedes".</p>
+            <p><lb break="yes"/>Y Dios le dijo al hombre: "¿Por qué no te puedo yo
+                <lb break="yes"/>mandar al Infierno, y por qué motivo?"
+                <lb break="yes"/>"Porque en el Infierno he vivido yo siempre ", respondió el
+                <lb break="yes"/>Hombre.</p>
+            <p><lb break="yes"/>Y hubo silencio en el Tribunal.</p>
+            <p><lb break="yes"/>Y después de un tiempo Dios habló y le dijo al Hombre:
+                <lb break="yes"/>"Dado que no te puedo mandar al Infierno,
+                <lb break="yes"/>he de mandarte al Cielo. Justo al
+                <lb break="yes"/>Cielo te mandaré".</p>
+            <p><lb break="yes"/>Y el Hombre clamó: "No puedes".</p>
+            <p><lb break="yes"/>Y Dios le dijo al Hombre: "¿Por qué no te podré
+                <lb break="yes"/>yo mandar al Cielo, y por qué motivo?"
+                <lb break="yes"/>"Porque nunca y en ningún lugar pude
+                <lb break="yes"/>imaginarlo", respondió el Hombre.</p>
+            <p><lb break="yes"/>Y hubo silencio en el Tribunal.</p>
+        </div>
+    </body>
+</text>
+</TEI>

@@ -1,7 +1,7 @@
 ---
 layout: _layouts/_documents-layout
 pageTitle: El artista - Fernando Pessoa 
-xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
+xmlFileLink: /xml/documentos/pessoa/Documento_Pessoa_El_artista_limpio.xml
 ---
 
 <!-- Document Content (Please avoid trailing commas as it cause rendering errors) -->
@@ -19,7 +19,7 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
             src: "/assets/img/facsimiles/Pessoa-O_Artista_2.jpg",
             href: "/assets/img/facsimiles/Pessoa-O_Artista_2.jpg",
             legend: "Pessoa O Artista 2",
-            facsPage: "[BNP 94-9r]",
+            facsPage: "[BNP 94-10r]",
             alt: "Pessoa - El Artista - Imagen 2" 
         }
     ] 
@@ -34,7 +34,7 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
             <span class="page-indicator facs-PA1"> [BNP 94-9r] </span> <br />
             Uma tarde veio-lhe á alma o <br />
             desejo de talhar uma imagem do <br />
-            <u>Prazer que dura um momento</u>. E <br />
+            <span class="underline">Prazer que dura um momento.</span> E <br />
             foi mundo fóra á procura de bron- <br />
             ze. Porque não pensava senão por bronze.
         ',
@@ -42,7 +42,7 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
             <span class="page-indicator facs-PA1"> [BNP 94-9r] </span> <br />
             Una tarde le vino al alma el <br />
             deseo de tallar una imagen del <br />
-            <u>Placer que dura un momento</u>. Y <br />
+            <span class="underline">Placer que dura un momento.</span> Y <br />
             fue por el mundo fuera en busca de bron- <br />
             ce. Porque no pensaba sino con bronce.
         '
@@ -53,14 +53,14 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
             do tinha desapparecido, nem em <br />
             qualquér parte do mundo se encon- <br />
             trava bronze a não ser o bronze da <br />
-            imagem da <u>Tristeza que sempre dura</u>.
+            imagem da <span class="underline">Tristeza que sempre dura</span>.
         ',
         '
             Pero todo el bronce de todo el mun- <br />
             do había desaparecido, ni en <br />
             cualquier parte del mundo se encon- <br />
             traba bronce a no ser el bronce de <br />
-            la imagen de la <u>Tristeza que siempre dura</u>.
+            la imagen de la <span class="underline">Tristeza que siempre dura</span>.
         '
     ],
     [
@@ -92,26 +92,26 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
         '
     ],
     [
-    '
-        E pegou na imagem que talhára <br />
-        e pôl-a n’uma fornalha e deu-a ao fogo.
-    ',
-    '
-        Y tomó la imagen que tallara <br />
-        y la puso en una fragua y la dio al fuego.
-    '
+        '
+            E pegou na imagem que talhára <br />
+            e pôl-a n’uma fornalha e deu-a ao fogo.
+        ',
+        '
+            Y tomó la imagen que tallara <br />
+            y la puso en una fragua y la dio al fuego.
+        '
     ],
     [
-    '
-        E do bronze da imagem da <u>Tris- <br />
-        teza que sempre dura</u> talhou [↑ elle]uma <br />
-        imagem do Prazer que dura um momento.
-    ',
-    '
-        Y del bronce de la imagen de la <hi rend="underline">Tris- <br />
-        teza que siempre dura</hi> talló [↑ él] <br />
-        imagen del <u>Placer que dura un momento</u>.
-    '
+        '
+            E do bronze da imagem da <span class="underline">Tris- <br />
+            teza que sempre dura</span> talhou [↑ elle]uma <br />
+            imagem do Prazer que dura um momento.
+        ',
+        '
+            Y del bronce de la imagen de la <span class="underline">Tris- <br />
+            teza que siempre dura</span> talló [↑ él] <br />
+            imagen del <span class="underline">Placer que dura un momento</span>.
+        '
     ]
 ]
 %}
@@ -151,6 +151,10 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
 
 .pessoa-document-legend {
   margin-right: 15px; 
+}
+
+.underline {
+  text-decoration: underline;
 }
 </style>
 

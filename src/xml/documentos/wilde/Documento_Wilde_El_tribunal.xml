@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="en" otherLangs="es"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/6">"The House of Judgment", page 1</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/7">"The House of Judgment", page 2</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/8">"The House of Judgment", page 3</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/9">"The House of Judgment", page 4</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/10">"The House of Judgment", page 5</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/11">"The House of Judgment", page 6</ref>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">The House of Judgement.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>And there was silence in the House of Judgment, and the Man came [↑
+                        <lb break="yes"/>naked] before God.
+                        <lb break="yes"/>[And God opened the Book of the Life of the Man, and saw what
+                        <lb break="yes"/>was written therein.</p>
+                <p rend="indent-first">And God said to the Man, "thy
+                        <lb break="yes"/>life hath been evil, and thou hast
+                        <lb break="yes"/>shown cruelty to those who were
+                        <lb break="yes"/>in need of succour, and to those
+                        <lb break="yes"/>who lacked help thou has't been
+                        <lb break="yes"/>bitter and hard of heart. The poor
+                        <lb break="yes"/>called to thee, and thou dids't not
+                        <lb break="yes"/><hi rend="overstike">listen</hi> [↑ hearken], and thine ears were closed
+                        <lb break="yes"/>to the cry of the afflicted. <orig>The
+                        <lb break="yes"/>gold that I gave thee thou dids't
+                        <lb break="yes"/>hoard for thy pleasures, and the
+                        <lb break="yes"/>hungry went hungry from <hi rend="overstike">thine</hi> thy
+                        <lb break="yes"/><hi rend="overstike">house</hi> [↑ courts] of ivory, and thou dids't beat
+                        <lb break="yes"/><hi rend="overstike">away drive</hi> the beggar from [↓the cool shadow of] thy gates.</orig></p>
+                    <p rend="indent-first"><lb break="yes"/>The inheritance of the fatherless thou dids't take unto thyself, and                        
+                        <lb break="yes"/>thou dids't send thy foxes into the
+                        <lb break="yes"/>vineyard of thy neighbour's field.
+                        <lb break="yes"/>Thou dids't take the bread of the
+                        <lb break="yes"/>children and give it to the dogs
+                        <lb break="yes"/>to eat, and the lepers who lived
+                        <lb break="yes"/>in the marshes, <hi rend="overstike">thou</hi> and were at
+                        <lb break="yes"/>peace and praised me, thou dids't
+                        <lb break="yes"/>drive forth on to the highways.
+                        <lb break="yes"/><hi rend="overstike">so that they were slain</hi> Pity was
+            <pb facs="PA1">Page 2</pb>
+                        <lb break="yes"/><orig>not in thee, nor mercy of any kind.
+                        <lb break="yes"/>Thou dids't trample on down the weak with
+                        <lb break="yes"/>feet of iron</orig>, and on mine earth, out of which I made thee, thou
+                        <lb break="yes"/>dids't spill <hi rend="overstike">the</hi> [↑ innocent] blood." <hi rend="overstike">of the innocent.</hi>"</p>
+            <pb facs="PA1">Page 3</pb>
+                    <p rend="indent-first"><lb break="yes"/><lb break="yes"/>And the Man <hi rend="overstike">answered</hi> [↑ made answer] and said,
+                        <lb break="yes"/>"Even so did I."</p>
+                    <p rend="indent-first"><lb break="yes"/><lb break="yes"/>And again God opened the Book
+                        <lb break="yes"/>of the Life of the Man, and saw
+                        <lb break="yes"/>what was written therein.</p>
+                    <p rend="indent-first"><lb break="yes"/><lb break="yes"/>And God said to the Man, "Thy
+                        <lb break="yes"/>life hath been evil<orig>, as thou has't
+                        <lb break="yes"/><hi rend="overstike">wrought</hi> [↑ lain with] the seven sins.</orig> The walls 
+                        <lb break="yes"/>of thy chamber were painted with 
+                        <lb break="yes"/>images, and from the bed of thine
+                        <lb break="yes"/>abominations thou dids't rise [↓ up] to
+                        <lb break="yes"/>the sound of flutes. Thou dids't
+                        <lb break="yes"/><hi rend="overstike">raise</hi> [↓ build] seven altars to the sins I 
+                        <lb break="yes"/>have sufferred, and dids't eat of
+                        <lb break="yes"/>the things that may not be eaten.
+                        <lb break="yes"/><orig>The cups of thy feast were <hi rend="overstike">full of</hi> [↑ red with] the wine of sin, and in the
+                        <lb break="yes"/>dishes there was poisonous honey,</orig>
+                        <lb break="yes"/>and the purple of thy raiment
+                        <lb break="yes"/>was broidered with the three signs
+                        <lb break="yes"/>of shame. Thine idols were neither
+                        <lb break="yes"/>of gold nor of silver, which endure, but of flesh that dieth. Thou
+                        <lb break="yes"/>dids't stain their hair with <hi rend="overstike">perfumes</hi> [↑ colours],
+                        <lb break="yes"/>a<add>n</add>d <hi rend="overstike">put strange flowers into</hi> [↑ set pomegranates in] their 
+                        <lb break="yes"/>hands. Thou dids't stain their
+                        <lb break="yes"/>feet with perfumes, and <hi rend="overstike">set</hi>
+                        <lb break="yes"/>spread carpets before them. With antimony
+                        <lb break="yes"/>thou dids't stain their eyelids, and
+                        <lb break="yes"/>their bodies thou dids't smear
+                        <lb break="yes"/>with myrrh. Thou dids't bow
+                        <lb break="yes"/>thyself to the ground before them,
+            <pb facs="PA1">Page 4</pb>
+                        <lb break="yes"/><orig>and in groves and on high places 
+                        <lb break="yes"/>thou didst worship them. In thine
+                        <lb break="yes"/>idolatry</orig> thou dids't bow thyself
+                        <lb break="yes"/>to the ground, and the thrones
+                        <lb break="yes"/>of thine idols were set in the
+                        <lb break="yes"/>sun. Thou dids't show to the
+                        <lb break="yes"/>sun thy shame and to the moon
+                        <lb break="yes"/>thy madness."</p>
+            <pb facs="PA1">Page 5</pb>
+                    <p rend="indent-first"><lb break="yes"/>And the Man <hi rend="overstike">answered</hi> [↑ made answer] and said, 
+                        <lb break="yes"/>"Even so did I."</p>
+                    <p rend="indent-first"><lb break="yes"/>And a third time God opened
+                        <lb break="yes"/>the Book of the Life of the Man,
+                        <lb break="yes"/>and saw what was written
+                        <lb break="yes"/>therein.</p>
+                    <p rend="indent-first"><lb break="yes"/>And God said to the Man,
+                        <lb break="yes"/>"Evil hath been thy life, and
+                        <lb break="yes"/>with evil dids't thou <hi rend="overstike">repay</hi> [↑ requite] good,
+                        <lb break="yes"/>and with wrongdoing <hi rend="overstike">dids't thou
+                        <lb break="yes"/>answer</hi> kindness. The hands that
+                        <lb break="yes"/>fed thee thou dids't wound, and
+                        <lb break="yes"/>the breasts that <hi rend="overstike">suckled thee</hi> [↑ gave thee suck] thou 
+                        <lb break="yes"/>dids't despise. <orig>With lying lips thou 
+                        <lb break="yes"/>dids't kiss the mouth of truth, and
+                        <lb break="yes"/>with a false tongue thou dids't
+                        <lb break="yes"/><hi rend="overstike">answer</hi> [↑ call on] Wisdom.</orig> He who <hi rend="overstike">brought</hi> [↑ came]
+                        <lb break="yes"/>to thee [↓ with] a gift went away
+                        <lb break="yes"/>empty, and those who hid thee
+                        <lb break="yes"/>in their tents [↓ at night] thou dids't betray [↓ before dawn.]
+                        <lb break="yes"/>Thine enemy who spared thee thou dids't <hi rend="overstike">slay</hi> [↑ snare] in an ambush, and 
+                        <lb break="yes"/>thy friend who walked with
+                        <lb break="yes"/>thee thou dids't sell for a
+                        <lb break="yes"/>price, and to those who brought
+                        <lb break="yes"/>thee Love thou dids't ever give
+                        <lb break="yes"/>Lust in <hi rend="overstike">answer</hi> [↑ payment]."</p>
+                    <p rend="indent-first"><lb break="yes"/>And the Man <hi rend="overstike">answered</hi> [↑ made answer] and
+                        <lb break="yes"/>said, "Even so did I."</p>
+            <pb facs="PA1">Page 6</pb>
+                    <p rend="indent-first"><lb break="yes"/>And God [↓ closed the Book of the Life of the Man, and] said, "Surely I shall
+                        <lb break="yes"/>send thee to Hell. Even unto Hell
+                        <lb break="yes"/>shall I send thee."</p>
+                    <p rend="indent-first"><lb break="yes"/>And the Man <hi rend="overstike">answered and said</hi> [↑ cried out],
+                        <lb break="yes"/>"Thou cans't not."</p>
+                    <p rend="indent-first"><lb break="yes"/>And God said to the Man,
+                        <lb break="yes"/>"Wherefore can I not send thee
+                        <lb break="yes"/>to Hell, and for what reason?"</p>
+                    <p rend="indent-first"><lb break="yes"/><orig>[↓ And the Man made answer, and said,] "Because I have always lived 
+                        <lb break="yes"/>in it." <hi rend="overstike">answered the Man.</hi></orig></p>
+                    <p rend="indent-first"><lb break="yes"/>And there was silence in the
+                        <lb break="yes"/>House of Judgment.</p>
+                    <p rend="indent-first"><lb break="yes"/>And after a space God spake,
+                        <lb break="yes"/>and said to the Man, "Seeing that
+                        <lb break="yes"/>I may not send thee to Hell,
+                        <lb break="yes"/>surely I shall send thee to
+                        <lb break="yes"/>Heaven. <hi rend="overstike">Shall</hi> Even unto Heaven shall 
+                        <lb break="yes"/>I send thee."</p>
+                    <p rend="indent-first"><lb break="yes"/>And the Man <hi rend="overstike">answered and said</hi> [↑ cried out], 
+                        <lb break="yes"/>"Thou cans't not."</p>
+                    <p rend="indent-first"><lb break="yes"/>And God said to the Man,
+                        <lb break="yes"/>"Wherefore can I not send thee to
+                        <lb break="yes"/>Heaven, and for what reason?"</p>
+                    <p rend="indent-first"><lb break="yes"/>Parag. [↓ And the Man made answer and said,] "Because never, and in no place,
+                        <lb break="yes"/>have I been able to imagine it."
+                        <lb break="yes"/><hi rend="overstike">answered the Man.</hi></p>
+                    <p rend="indent-first"><lb break="yes"/>And there was silence in the House of Judgment.</p>
+                    <p rend="indent-first">Oscar Wilde.</p>                 
+                </div>
+                <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">El tribunal.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>Y hubo silencio en el Tribunal y el Hombre se presentó [↑
+                        <lb break="yes"/>Desnudo] ante Dios.
+                        <lb break="yes"/>[Y Dios abrió el Libro de la Vida del Hombre, y vio lo que
+                        <lb break="yes"/>estaba escrito adentro.</p>
+                <p rend="indent-first"><lb break="yes"/>Y Dios le dijo al Hombre: “Tu
+                        <lb break="yes"/>vida ha sido malvada, y tú te has
+                        <lb break="yes"/>mostrado cruel ante los
+                        <lb break="yes"/>que pedían socorro, y ante aquellos
+                        <lb break="yes"/>que requerían ayuda has sido
+                        <lb break="yes"/>recio y duro de corazón. Lo pobres
+                        <lb break="yes"/>te llamaron y tú no <hi rend="overstike">escuchaste</hi> [↑ atendiste], tus oídos se cerraron
+                        <lb break="yes"/>a los gritos de Mis afligidos. El oro
+                        <lb break="yes"/>que te di lo atesoraste para tus placeres, y los 
+                        <lb break="yes"/>hambrientos se quedaron con hambre por <hi rend="overstike">tu</hi> tus
+                        <lb break="yes"/><hi rend="overstike">casa</hi> [↑ cortes] de marfil, y echaste a golpes
+                        <lb break="yes"/><hi rend="overstike">ahuyentaste</hi> al mendigo de [↓ la fría sombra de] sus puertas. 
+                        <lb break="yes"/>Usurpaste la herencia de los huérfanos y 
+                        <lb break="yes"/>soltaste zorros sobre
+                        <lb break="yes"/>la viña en el campo de tu prójimo. 
+                        <lb break="yes"/>Tú robaste el pan a los
+                        <lb break="yes"/>niños y lo diste de comer a los perros,
+                        <lb break="yes"/>y a Mis leprosos, que vivían
+                        <lb break="yes"/>en paz en los pantanos y Me alababan, tú los
+                        <lb break="yes"/>arrastraste por los caminos.
+                        <lb break="yes"/><hi rend="overstike">Para que fueran asesinados</hi> La compasión no
+            <pb facs="PA1">Page 2</pb>
+                        <lb break="yes"/>Vivía en ti, ni algún tipo de misericordia,
+                        <lb break="yes"/>aplastaste a los débiles con
+                        <lb break="yes"/>suelas de hierro, y sobre Mi tierra, de la que Yo a ti te hice,
+                        <lb break="yes"/>derramaste <hi rend="overstike">la</hi> sangre [↑ inocente]. <hi rend="overstike">de los inocentes.</hi></p>
+            <pb facs="PA1">Page 3</pb>
+                    <p rend="indent-first"><lb break="yes"/>Y el Hombre respondió [↑respondiendo] dijo:
+                        <lb break="yes"/>“Eso hice”.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y de nuevo Dios abrió el Libro
+                        <lb break="yes"/>de la Vida del Hombre y vio
+                        <lb break="yes"/>lo que estaba escrito adentro.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y Dios le dijo al Hombre: “Tu
+                        <lb break="yes"/>vida ha sido malvada, como si
+                        <lb break="yes"/><hi rend="overstike">le hubieras servido a</hi> [↑ te hubieras acostado con] los siete pecados. Las paredes 
+                        <lb break="yes"/>de tus aposentos estaban pintadas con
+                        <lb break="yes"/>imágenes, y del lecho de tus
+                        <lb break="yes"/>abominaciones te levantaste al
+                        <lb break="yes"/>compás de flautas.
+                        <lb break="yes"/><hi rend="overstike">Erigiste</hi> [↑ Construiste] siete altares a los pecados que yo
+                        <lb break="yes"/>he tolerado, y has comido
+                        <lb break="yes"/>aquello que no se puede comer.
+                        <lb break="yes"/>Las copas de tu festín eran <hi rend="overstike">estaban llenas de</hi> [↑ rojas por] el vino del pecado, y en los 
+                        <lb break="yes"/>platos había miel venenosa,
+                        <lb break="yes"/>y el púrpura de tus vestidos
+                        <lb break="yes"/>fue bordado con las tres cruces
+                        <lb break="yes"/>de la vergüenza. Tus ídolos no eran
+                        <lb break="yes"/>de oro ni plata duraderos, sino de carne que muere. Tú
+                        <lb break="yes"/>manchaste sus cabellos con <hi rend="overstike">perfumes</hi> [↑ colores],
+                        <lb break="yes"/><add>y</add> <hi rend="overstike">colocaste flores aberrantes sobre</hi> [↑ pusiste granadas en] sus 
+                        <lb break="yes"/>manos. Tú manchaste sus pies con azafrán y <hi rend="overstike">pusiste</hi>
+                        <lb break="yes"/>extendiste alfombras ante ellos. Con antimonio
+                        <lb break="yes"/>manchaste sus párpados y
+                        <lb break="yes"/>sus cuerpos untaste
+                        <lb break="yes"/>de mirra. Tú te postraste
+                        <lb break="yes"/>en el suelo ante ellos,
+            <pb facs="PA1">Page 4</pb>
+                        <lb break="yes"/>Y en arboledas y en lugares elevados
+                        <lb break="yes"/>los alabaste. En tu
+                        <lb break="yes"/>idolatría tú te postraste
+                        <lb break="yes"/>en el suelo ante ellos, y los tronos
+                        <lb break="yes"/>de tus ídolos fueron puestos al
+                        <lb break="yes"/>sol. Tú mostraste al
+                        <lb break="yes"/>sol tu vergüenza y a la luna
+                        <lb break="yes"/>tu locura.</p>
+            <pb facs="PA1">Page 5</pb>
+                    <p rend="indent-first"><lb break="yes"/>Y el Hombre <hi rend="overstike">respondió</hi> [↑ respondiendo] dijo: 
+                        <lb break="yes"/>“Eso hice”.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y por tercera vez Dios abrió
+                        <lb break="yes"/>el Libro de la Vida del Hombre,
+                        <lb break="yes"/>y vio lo que estaba escrito
+                        <lb break="yes"/>adentro.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y Dios le dijo al Hombre:
+                        <lb break="yes"/>“El mal ha sido tu vida, y con mal has <hi rend="overstike">pagado</hi> [↑ devuelto] el bien
+                        <lb break="yes"/>y con fechorías <hi rend="overstike">les has atendido</hi> la bondad. Heriste las manos
+                        <lb break="yes"/>que te alimentaron y
+                        <lb break="yes"/>despreciaste el pecho que <hi rend="overstike">amamantaste</hi> [↑ te amamantó].
+                        <lb break="yes"/>Con labios embusteros besaste la boca de la verdad, y con una lengua falsa <hi rend="overstike">respondiste</hi> [↑
+                        <lb break="yes"/>llamaste] a la Sabiduría. El que <hi rend="overstike">trajo</hi> [↑ vino]
+                        <lb break="yes"/>a ti <hi rend="overstike">a</hi> [↑ con] agua se fue sediento, y a
+                        <lb break="yes"/>los forajidos que te escondieron en sus tiendas [↓ durante la noche], los traicionaste [↓ antes del
+                        <lb break="yes"/>amanecer].
+                        <lb break="yes"/>Al enemigo que te perdonó la vida le <hi rend="overstike">asesinaste en</hi> [↑ tendiste] una emboscada, y
+                        <lb break="yes"/>al amigo que te acompañó lo vendiste por unas
+                        <lb break="yes"/>monedas, y a aquellos que te dieron
+                        <lb break="yes"/>amor les respondiste [↑ correspondiste]
+                        <lb break="yes"/>siempre con lujuria”.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y el Hombre <hi rend="overstike">respondió</hi> [↑ respondiendo] 
+                        <lb break="yes"/>dijo: “Eso hice”.</p>
+            <pb facs="PA1">Page 6</pb>
+                    <p rend="indent-first"><lb break="yes"/>Y Dios [↓ cerró el Libro de la Vida del Hombre, y] dijo: “Está claro que te
+                        <lb break="yes"/>enviaré al infierno. Justo al infierno
+                        <lb break="yes"/>te enviaré”.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y el hombre respondió y dijo [↑ gritó]:
+                        <lb break="yes"/>“No puedes”.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y Dios le dijo al Hombre:
+                        <lb break="yes"/>“¿Cómo que Yo no puedo enviarte
+                        <lb break="yes"/>al infierno?, ¿por qué razón?”</p>
+                    <p rend="indent-first"><lb break="yes"/><orig>[↓ Y el Hombre respondiendo dijo] “Porque en el infierno he vivido
+                        <lb break="yes"/><hi rend="overstike">siempre”, respondió el Hombre.</hi></orig></p>
+                    <p rend="indent-first"><lb break="yes"/>Y hubo silencio en el
+                        <lb break="yes"/>Tribunal.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y después de un momento habló Dios,
+                        <lb break="yes"/>y le dijo al Hombre, “Ya que no puedo enviarte al infierno,
+                        <lb break="yes"/>está claro que te enviaré al
+                        <lb break="yes"/>cielo. Justo al cielo te enviaré”.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y el hombre <hi rend="overstike">respondió y dijo</hi> [↑ gritó]: 
+                        <lb break="yes"/>“No puedes”.</p>
+                    <p rend="indent-first"><lb break="yes"/>Y Dios le dijo al Hombre: “¿Cómo que Yo no puedo enviarte a
+                        <lb break="yes"/>cielo?, ¿por qué razón?”</p>
+                    <p rend="indent-first"><lb break="yes"/><hi rend="overstike">Parag.</hi> [↓ Y el Hombre respondiendo dijo] “Porque nunca, ni en ningún lugar,
+                        <lb break="yes"/>he podido imaginarlo”,
+                        <lb break="yes"/><hi rend="overstike">contestó el hombre.</hi></p>
+                    <p rend="indent-first"><lb break="yes"/>Y hubo silencio en el Tribunal.</p>
+                    <p rend="indent-first">Oscar Wilde.</p>
+                </div>   
+                    
+        </body>
+    </text>
+</TEI>

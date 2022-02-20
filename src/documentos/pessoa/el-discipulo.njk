@@ -1,0 +1,220 @@
+---
+layout: _layouts/_documents-layout
+pageTitle: El discípulo - Fernando Pessoa 
+xmlFileLink: /xml/documentos/pessoa/Documento_Pessoa_El_discipulo.xml
+---
+
+<!-- Document Content (Please avoid trailing commas as it cause rendering errors) -->
+
+<!-- Images rendered on Top -->
+{% set images = [ 
+        { 
+            src: "/assets/img/facsimiles/Pessoa-O_Discipulo_1.jpg",
+            href: "/assets/img/facsimiles/Pessoa-O_Discipulo_1.jpg",
+            legend: "Pessoa O Discipulo 1",
+            facsPage: "[BNP 94-7]",
+            alt: "Pessoa - O discipulo 1"
+        },
+        { 
+            src: "/assets/img/facsimiles/Pessoa-O_Discipulo_2.jpg",
+            href: "/assets/img/facsimiles/Pessoa-O_Discipulo_2.jpg",
+            legend: "Pessoa O Discipulo 2",
+            facsPage: "[BNP 94-8]",
+            alt: "Pessoa - O discipulo 2"
+        }
+    ] 
+%} 
+
+
+<!-- The document -->
+{% set document = [
+    [ "O Discípulo.", "El Discípulo." ],
+    [
+        '
+            <span class="page-indicator facs-PD1"> [BNP 94-7] </span> <br />
+            Quando Narciso morreu, a fonte <br />
+            do seu prazer tornou-se de uma <br />
+            taça de aguas suaves uma taça <br />
+            de lagrimas amargas e as Oréa-
+            des vieram chorando pelas flo-  
+            para cantar á fonte e <br />
+            dar-lhe consolação. <br />
+        ',
+        '
+            <span class="page-indicator facs-PD1"> [BNP 94-7] </span> <br />
+            Cuando Narciso murió, la fuente <br />
+            de su placer se transformó de una <br />
+            copa de aguas suaves a una copa <br />
+            de lágrimas amargas, y las Oréa-
+            des vinieron llorando por los bosques
+            para cantarle a la fuente y <br />
+            darle consuelo. <br />
+        '
+    ],
+    [
+        '
+            E quando viram que a fonte se <br />
+            tinha <hi rend="overstrike">mudado</hi> [↑ tornado] de uma <br />
+            taça de aguas suaves uma taça <br />
+            de lagrimas amargas, soltaram <br />
+            as verdes <hi rend="overstrike">coronas</hi> [↑ tranças] do seu <br />
+            cabello e fallando á fonte dis- 
+            seram: Não nos admira que cho-
+            res assim por Narciso, tão bello <br />
+            era elle. <br />
+        ',
+        '
+            Y cuando vieron que la fuente se <br />
+            había <hi rend="overstrike">cambiado</hi> [↑ transformado] de una <br />
+            copa de aguas suaves a una copa <br />
+            de lágrimas amargas, soltaron <br />
+            las verdes <hi rend="overstrike">coronas</hi> [↑ trenzas] de su <br />
+            cabello y hablándole a la fuente, di-
+            jeron: No nos sorprende que llo-
+            res así por Narciso, tan bello <br />
+            él era. <br />
+        '
+    ],
+    [
+        '
+            ‒ Mas Narciso era bello? disse a
+            fonte.
+        ',
+        '
+            ‒ ¿Pero Narciso era bello? dijo la
+            fuente.
+        '
+    ],
+    [
+        '
+            ‒ Quem melhor que tu pode sa-
+            ber? responderam as Oréades. Por <br />
+            nós passava elle sempre, deixan-
+            do-nos, mas a ti buscava-te sem-   
+            <span class="page-indicator facs-PD2"> [BNP 94-8] </span> <br />
+            pre e deitava-se á tua margem <br />
+            e olhava, debruçando-se, para ti <br />
+            e no espelho das tuas aguas es-
+            pelhava elle a sua belleza. <br />
+        ',
+        '
+            ‒ ¿Quién mejor que tú puede sa-
+            berlo? respondieron las Oréades. Él <br />
+            siempre pasaba por nosotras, abando-
+            nándonos, pero a ti te buscaba siem-   
+            <span class="page-indicator facs-PD2"> [BNP 94-8] </span> <br />
+            pre y se tendía a tu orilla <br />
+            y te miraba, inclinándose, <br />
+            y en el espejo de tus aguas re-
+            <lb break="yes"/>flejaba su belleza. <br />
+        '
+    ],
+    [
+        '
+            E a fonte respondeu: Mas eu <br />
+            amava Narciso porque, quando, <br />
+            deitado á minha margem, se <br />
+            debruçava fitando-me, no espe-
+            lho dos seus olhos eu via sempre a <br />
+            minha propria belleza reflectida.
+        ',
+        '
+            Y la fuente respondió: Pero yo <br />
+            amaba a Narciso porque, cuando, <br />
+            tendido en mi orilla, se <br />
+            inclinaba mirándome fijamente, en el es-
+            pejo de sus ojos yo veía siempre mi  <br />
+            mi propia belleza reflejada.
+        '
+    ]
+]
+%}
+
+
+<style>
+#images-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+#images-container > div {
+    min-width: 300px;
+    width: 45%;
+}
+
+@media screen and (max-width: 650px) {
+    #images-container > div {
+        flex-grow: 0.5;
+    }
+}
+
+.page-indicator {
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  font-weight: bold;
+}
+
+.facs-page {
+  font-weight: bold;
+}
+
+.pessoa-document-legend {
+  margin-right: 15px; 
+}
+
+.underline {
+  text-decoration: underline;
+}
+</style>
+
+<h4 class="text-center">Imágenes Adjuntas</h4>
+
+
+<!-- Images rendered on Top -->
+<div id="images-container">
+    {% for image in images %}
+        <div>
+            <div class="image">
+                <a href="{{ image.href }}">
+                    <img
+                        src="{{ image.src }}"
+                        alt="{{ image.alt }}"
+                        width="100%"
+                    />
+                </a>
+            </div>
+            <div class="legend-container text-center">
+                <p class="text-center pessoa-document-legend">
+                    <span class="pessoa-document-legend">{{ image.legend }}</span> 
+                    <span class="facs-page">{{ image.facsPage }}</span>
+                </p>  
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+<div id="document-content">
+    <!-- The document -->
+    {% for row in document %}
+        <div class="row">
+            {% set isFirstRow = loop.first %}
+
+            {% for paragraph in row %}
+                {% if isFirstRow %}
+                    {% set title = paragraph %}
+                    <div class="six columns">
+                        <h2>{{ title }}</h2>
+                    </div>
+                {% else %}
+                    <div class="six columns">
+                        <p class="indent-first">{{ paragraph | safe }}</p>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>
