@@ -1,0 +1,191 @@
+---
+layout: _layouts/_documents-layout
+pageTitle: El discípulo - Oscar Wilde
+xmlFileLink: /xml/documentos/wilde/Documento_Wilde_El_discipulo.xml
+---
+
+<!-- Document Content (Please avoid trailing commas as it cause rendering errors) -->
+
+<!-- Links rendered on Top -->
+{% set links = [ 
+    { 
+        
+        legend: '"The Disciple", ',
+        facsPage: "page 1",
+        href: "https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/18"
+    },
+    { 
+        
+        legend: '"The Disciple", ',
+        facsPage: "page 2",
+        href: "https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/19"
+    }
+] 
+%} 
+
+
+<!-- The document -->
+{% set document = [
+    [ "The Disciple", "El discípulo" ],
+    [
+        '
+            <span class="page-indicator facs-PA1"> (Page 1) </span> <br />
+        ',
+        '
+            <span class="page-indicator facs-PA1"> (Page 1) </span> <br />
+        '
+    ],
+    [
+        '
+            When Narcissus died <br />
+            the pool of his pleasure changed <br />
+            from a cup of sweet waters <br />
+            into a cup of salt tears. And <br />
+            the Oreads <del>went</del> [↑ came] weeping through <br />
+            the woodlands, that they might talk <br />
+            to the <del>And the Oreads</del> pool and <br />
+            give it comfort. <br />
+        ',
+        '
+            Cuando Narciso murió, <br />
+            la fuente de sus placeres dejó <br />
+            de ser un estanque de aguas dulces <br />
+            y se transformó en un estanque de lágrimas saladas, y <br />
+            las Oréades <del>fueron</del> [↑ vinieron] sollozando por <br />
+            el bosque para cantarle <br />
+            <del>Y las Oréades</del> a la fuente y  <br />
+            darle consuelo. <br />
+        '
+    ],
+    [
+        '
+            And when they saw that <br />
+            the pool had changed from a cup <br />
+            of sweet waters into a cup of <br />
+            salt tears they <del>called to it</del><pb facs="PA1">Page 1</pb> <br />
+            loosened the green tresses of their hair and <br />
+            [↑ wept again] <del>called to the pool</del> and <br />
+            said "We do not wonder that <br />
+            you should <del>grieve</del> mourn in this <br />
+            manner for Narcissus, so beautiful <br />
+            was he." <br />
+        ',
+        '
+            Y cuando vieron que <br />
+            la fuente ya no era un estanque <br />
+            de aguas dulces sino un estanque de <br />
+            lágrimas saladas, <del>le llamaron</del> <br />
+            soltaron las trenzas de sus verdes cabellos y <br />
+            [↑ lloraron] <del>llamando</del> sobre <del>a</del> la fuente <br />
+            diciéndole: “No nos sorprende que <br />
+            <del>te aflijas</del> guardes este luto por Narciso, tan hermoso <br />
+            era”. <br />
+        '
+    ],
+    [
+        '
+            "But was Narcissus beautiful?" <br />
+            said the pool. <br />
+        ',
+        '
+            “¿Acaso Narciso era hermoso?”, <br />
+            dijo la fuente. <br />
+        '
+    ],
+    [
+        '
+            "Who should know that <br />
+            better than you?" answered the <br />
+            Oreads. "Us did he ever pass <br />
+            by, but <del>thee</del> [↑ you] he sought for, and would lie on <del>thy</del> [↑ your] banks and <br />
+            look down at <del>thee</del> [↑ you], and in the <br />
+            mirror of <del>thy</del> [↑ your] waters he would <br />
+            mirror his own beauty." <br />
+        ',
+        '
+            “¿Y quién debería saberlo <br />
+            mejor que tú?”, respondieron las Oréades. “A nosotras ni siquiera nos <br />
+            miraba, fue a <del>tu</del> [↑ ti] que él buscó, y recostado <del>en</del> junto a <del>tus</del> [↑ tus] orillas <del>a ti</del> [↑ te] miraba <br />
+            fijamente, <br />
+            y en el espejo de tus aguas veía <br />
+            su propia belleza reflejada.” <br />
+        '
+    ],
+    [
+        '
+            And the river pool answered "But <br />
+            I loved Narcissus because as he <br />
+            <span class="page-indicator facs-PA1"> (Page 2) </span> <br />
+            lay on my banks and looked <br />
+            down at me, in the mirror of <br />
+            his eyes I saw ever my own <br />
+            beauty mirrored." <br />
+        ',
+        '
+            Y la fuente respondió, “Pero <br />
+            yo amaba a Narciso porque cuando se <br />
+            <span class="page-indicator facs-PA1"> (Page 2) </span> <br />
+            recostaba junto a mis orillas y me miraba <br />
+            fijamente, en el espejo de sus ojos yo veía siempre mi propia <br />
+            belleza reflejada”. <br />
+        '
+    ]
+]
+%}
+
+<style>
+.page-indicator {
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  font-weight: bold;
+}
+.wilde-document-link {
+  margin-right: 15px;
+}
+.facs-page {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+</style>
+
+{% if links.length > 0  %}
+<h4 class="text-center">Referencias externas del documento</h4>
+{% endif %}
+
+<!-- Links rendered on Top -->
+<div id="links-container">
+    <ul>
+        {% for link in links %}
+            <li class="text-center">
+                <a class="wilde-document-link" href="{{ link.href }}" target="_blank">{{ link.legend }}</a>
+                <span class="facs-page">{{ link.facsPage }}</span>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div id="document-content">
+    <!-- The document -->
+    {% for row in document %}
+        <div class="row">
+            {% set isFirstRow = loop.first %}
+
+            {% for paragraph in row %}
+                {% if isFirstRow %}
+                    {% set title = paragraph %}
+                    <div class="six columns">
+                        <h2>{{ title }}</h2>
+                    </div>
+                {% else %}
+                    <div class="six columns">
+                        <p class="indent-first">{{ paragraph | safe }}</p>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>

@@ -1,7 +1,7 @@
 ---
 layout: _layouts/_documents-layout
-pageTitle: El artista - Fernando Pessoa 
-xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
+pageTitle: El artista - Oscar Wilde
+xmlFileLink: /xml/documentos/wilde/Documento_Wilde_El_artista.xml
 ---
 
 <!-- Document Content (Please avoid trailing commas as it cause rendering errors) -->
@@ -29,11 +29,17 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
     [
         '
             <span class="page-indicator facs-PA1"> (página 1) </span> <br />
+        ',
+        '
+            <span class="page-indicator facs-PA1"> (página 1) </span> <br />
+        '
+    ],
+    [
+        '
             <del>He could only think in <br />
             bronze <br />
         ',
         '
-            <span class="page-indicator facs-PA1"> (página 1) </span> <br />
             <del>Solo podía pensar en <br />
             bronce.</del> <br />
         '
@@ -158,8 +164,9 @@ xmlFileLink: /xml/documentos/Documento_Pessoa_El_artista_limpio.xml
 }
 </style>
 
+{% if links.length > 0  %}
 <h4 class="text-center">Referencias externas del documento</h4>
-
+{% endif %}
 
 <!-- Links rendered on Top -->
 <div id="links-container">
