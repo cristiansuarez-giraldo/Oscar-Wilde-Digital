@@ -1,13 +1,8 @@
 ---
-layout: _layouts/_documents-layout
+layout: _layouts/_documents-wilde
 pageTitle: El discípulo - Oscar Wilde
 xmlFileLink: /xml/documentos/wilde/Documento_Wilde_El_discipulo.xml
----
-
-<!-- Document Content (Please avoid trailing commas as it cause rendering errors) -->
-
-<!-- Links rendered on Top -->
-{% set links = [ 
+links: [ 
     { 
         
         legend: '"The Disciple", ',
@@ -20,12 +15,9 @@ xmlFileLink: /xml/documentos/wilde/Documento_Wilde_El_discipulo.xml
         facsPage: "page 2",
         href: "https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/19"
     }
-] 
-%} 
+]
 
-
-<!-- The document -->
-{% set document = [
+document: [
     [ "The Disciple", "El discípulo" ],
     [
         '
@@ -131,61 +123,4 @@ xmlFileLink: /xml/documentos/wilde/Documento_Wilde_El_discipulo.xml
         '
     ]
 ]
-%}
-
-<style>
-.page-indicator {
-  display: block;
-  width: 30%;
-  margin-left: auto;
-  font-weight: bold;
-}
-.wilde-document-link {
-  margin-right: 15px;
-}
-.facs-page {
-  font-weight: bold;
-}
-
-.underline {
-  text-decoration: underline;
-}
-</style>
-
-{% if links.length > 0  %}
-<h4 class="text-center">Referencias externas del documento</h4>
-{% endif %}
-
-<!-- Links rendered on Top -->
-<div id="links-container">
-    <ul>
-        {% for link in links %}
-            <li class="text-center">
-                <a class="wilde-document-link" href="{{ link.href }}" target="_blank">{{ link.legend }}</a>
-                <span class="facs-page">{{ link.facsPage }}</span>
-            </li>
-        {% endfor %}
-    </ul>
-</div>
-
-<div id="document-content">
-    <!-- The document -->
-    {% for row in document %}
-        <div class="row">
-            {% set isFirstRow = loop.first %}
-
-            {% for paragraph in row %}
-                {% if isFirstRow %}
-                    {% set title = paragraph %}
-                    <div class="six columns">
-                        <h2>{{ title }}</h2>
-                    </div>
-                {% else %}
-                    <div class="six columns">
-                        <p class="indent-first">{{ paragraph | safe }}</p>
-                    </div>
-                {% endif %}
-            {% endfor %}
-        </div>
-    {% endfor %}
-</div>
+---
