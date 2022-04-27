@@ -3,21 +3,65 @@ layout: _layouts/_base-layout
 ---
 
 <style>
-h1 {
-    color: #222;
-}
-h2 {
-    text-align: center;
-    color: #444;
-}
-p {
-    text-align: justify;
-}
+    h1 {
+        color: #222;
+    }
+    h2 {
+        text-align: center;
+        color: #444;
+    }
+    p {
+        text-align: justify;
+    }
 </style>
 
-<section class="poems">{{ content | safe }}</section>
+<!-- Rendered content -->
+<section class="poems">
+    {% for row in poem %}
+        <div class="row">
+            {% set isFirstRow = loop.first %}
+            {% for paragraph in row %}
+                {% set columnsAmmount = loop.length %}
+                {% if isFirstRow %}
+                    {% set title = paragraph %}
+                    {# Differenciate between columns with 2, 3 and 4 rows #}
+                    {% if columnsAmmount <= 2 %}
+                        <div class="six columns">
+                            <h2>{{ title }}</h2>
+                        </div>
+                    {% elif columnsAmmount == 3 %}
+                        <div class="four columns">
+                            <h2>{{ title }}</h2>
+                        </div>
+                    {% elif columnsAmmount == 4 %}
+                        <div class="three columns">
+                            <h2>{{ title }}</h2>
+                        </div>
+                    {% endif %}
+                {% else %}
+                    {# Differenciate between columns with 2, 3 and 4 rows #}
+                    {% if columnsAmmount <= 2 %}
+                        <div class="six columns">
+                            <p class="indent-first">{{ paragraph | safe }}</p>
+                        </div>
+                    {% elif columnsAmmount == 3 %}
+                        <div class="four columns">
+                            <p class="indent-first">{{ paragraph | safe }}</p>
+                        </div>
+                    {% elif columnsAmmount == 4 %}
+                        <div class="three columns">
+                            <p class="indent-first">{{ paragraph | safe }}</p>
+                        </div>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</section>
 
-<section class="article-source">
+<section class="poem-source">
     <h5 class="text-center">Referencia</h5>
-    <p class="text-center">El XML TEI asociado a este poema se puede encontrar <a href="{{ xmlFileLink }}">en el siguiente enlace</a></p>
+    <p class="text-center">El XML TEI asociado a este poema se puede encontrar
+        <a href="{{ xmlFileLink }}">en el siguiente enlace</a>
+    </p>
 </section>
