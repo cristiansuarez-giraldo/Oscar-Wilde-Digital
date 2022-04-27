@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="en" otherLangs="es"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+       <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/20">"The Master", page 1</ref>
+       <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/21">"The Master", page 2</ref>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">The Master.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>Now when the <hi rend="overstike">great black</hi>
+                        <lb break="yes"/>darkness came over the earth Joseph of Arithmathea, having 
+                        <lb break="yes"/>lighted a torch of pinewood, passed down [↓ from the hill]
+                        <lb break="yes"/>into the valley. [↓ For he had business in his own home.]</p>
+                <p rend="indent-first">And kneeling on the
+                        <lb break="yes"/>flint-stones of the Valley of
+                        <lb break="yes"/>Desolation he saw a young man
+                        <lb break="yes"/>who was naked and weeping. His
+                        <lb break="yes"/>hair was the colour of honey and
+                        <lb break="yes"/>his body was as a white flower,
+                        <lb break="yes"/>but he had wounded his body with
+                        <lb break="yes"/>thorns and on his hair had he
+                        <lb break="yes"/>set ashes as a crown.
+                        <lb break="yes"/>And he who had great
+                        <lb break="yes"/>possessions said to <hi rend="overstike">him</hi> [↑ the young man] who was 
+                        <lb break="yes"/>naked and weeping, "I do not
+                        <lb break="yes"/>wonder that your sorrow is so great.
+                        <lb break="yes"/>For surely He was a just man."</p>
+                    <p rend="indent-first"><lb break="yes"/><hi rend="overstike">But</hi> [↑ And] the young man answered, "It
+                        <lb break="yes"/>is not for him that I am weeping, but for myself. I <hi rend="overstike">too</hi> also
+                        <lb break="yes"/>have changed water into wine, and
+                        <lb break="yes"/>I have healed the leper and given sight
+                        <lb break="yes"/>to the blind. I have walked
+                        <lb break="yes"/>upon the <hi rend="overstike">waves of the sea</hi> [↑ waters], and
+                        <lb break="yes"/>from the dwellers in the tombs I
+                        <lb break="yes"/>have cast out devils. I have fed the hungry
+                        <lb break="yes"/><hi rend="overstike">on strange</hi> [↑ in the desert where there was no] food,
+                        <lb break="yes"/>and I have raised the dead from
+            <pb facs="PA1">Page 2</pb>
+                        <lb break="yes"/>their narrow houses, and at my
+                        <lb break="yes"/>bidding a barren fig tree withered away. <hi rend="overstike">And yet they have not
+                        <lb break="yes"/>crucified</hi> All things that this 
+                        <lb break="yes"/>man has done I have done
+                        <lb break="yes"/>also. And yet they have not
+                        <lb break="yes"/>crucified me. It is for that
+                        <lb break="yes"/>reason I am weeping.</p>
+                        <p rend="indent-first">Oscar Wilde</p>
+                    </div>
+                    <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">El Maestro.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>Entonces cuando las <hi rend="overstike">grandes negras</hi>
+                        <lb break="yes"/>tinieblas se habían ceñido sobre la tierra José de Aritmatea, habiendo
+                        <lb break="yes"/>encendido una antorcha de pino, bajó [↓ de la colina]
+                        <lb break="yes"/>hacia el valle. [↓ Pues tenía asuntos en su propia casa.]</p>
+                <p rend="indent-first">Y arrodillándose sobre los
+                        <lb break="yes"/>pedernales del Valle de
+                        <lb break="yes"/>la Desolación vio a un muchacho
+                        <lb break="yes"/>desnudo que lloraba. Su
+                        <lb break="yes"/>cabello era del color de la miel y
+                        <lb break="yes"/>su cuerpo era como una flor blanca,
+                        <lb break="yes"/>pero había lacerado su cuerpo con
+                        <lb break="yes"/>espinas y había coronado
+                        <lb break="yes"/>sus cabellos con cenizas.
+                        <lb break="yes"/>Y él, que era un hombre muy rico, dijo al muchacho que estaba
+                        <lb break="yes"/>desnudo y que lloraba: “No me
+                        <lb break="yes"/>sorprende que tu dolor sea tan grande,
+                        <lb break="yes"/>porque en verdad Él era un hombre justo”.</p>
+                    <p rend="indent-first"><lb break="yes"/><hi rend="overstike">Pero</hi> [↑ Y] el muchacho le respondió: “No 
+                        <lb break="yes"/>es por Él que estoy llorando, sino por mí. Yo <hi rend="overstike">asimismo</hi> también                             <lb break="yes"/>have changed water into wine, and
+                        <lb break="yes"/>transformé el agua en vino, y
+                        <lb break="yes"/>yo también curé a los leprosos y les di la vista a los ciegos. Caminé
+                        <lb break="yes"/>sobre <hi rend="overstike">las olas del mar</hi> [↑ las aguas], y
+                        <lb break="yes"/>de los que habitan en las tumbas
+                        <lb break="yes"/>expulsé demonios. Alimenté a los hambrientos
+                        <lb break="yes"/><hi rend="overstike">en extrañas</hi> [↑en el desierto, donde no había] comida,
+                        <lb break="yes"/>y levanté a los muertos de
+            <pb facs="PA1">Page 2</pb>
+                        <lb break="yes"/>de sus estrechas moradas, y bajo mis
+                        <lb break="yes"/>órdenes una higuera estéril se marchitó. <hi rend="overstike">Y aun así no me han
+                        <lb break="yes"/>crucificado</hi> Todas las cosas que hizo ese
+                        <lb break="yes"/>hombre yo también las hice.
+                        <lb break="yes"/>Y, aun así,
+                        <lb break="yes"/>a mí no me han crucificado. Es por esa
+                        <lb break="yes"/>razón que lloro.</p>
+                        <p rend="indent-first">Oscar Wilde</p>
+                    </div>
+                    
+        </body>
+    </text>
+</TEI>

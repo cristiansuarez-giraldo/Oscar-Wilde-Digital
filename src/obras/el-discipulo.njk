@@ -1,84 +1,38 @@
 --- 
-layout: _layouts/_poems-layout
+layout: _layouts/_poems-layout-new
 pageTitle: El Discipulo - Oscar Wilde
-xmlFileLink: /xml/poemas/wilde-el-discipulo.xml
----
-
-<!-- Poem Content -->
-{% set poem = [
+xmlFileLink: /xml/poemas/wilde/wilde-el-discipulo.xml
+poem: [
     ['The Disciple', 'El discípulo', 'O discípulo', 'El discípulo'],
     [
-        '<p class="indent-first">When Narcissus died the pool of his pleasure changed from a cup of sweet waters into a cup of salt tears, and the Oreads came weeping through the woodland that they might sing to the pool and give it comfort.</p>',
-        '<p class="indent-first">Cuando Narciso murió, la fuente de sus placeres dejó de ser un estanque de aguas dulces y se transformó en un estanque de lágrimas saladas, y las Oréades vinieron sollozando por el bosque para cantarle a la fuente y darle consuelo.</p> ',
-        '<p class="indent-first">Quando Narciso morreu, a fonte do seu prazer tornou-se de uma taça de águas suaves uma taça de lagrimas amargas e as Oréades vieram chorando pelas florestas para cantar á fonte e dar-lhe consolação.</p> ',
-        '<p class="indent-first">Cuando Narciso murió, la fuente de su placer se transformó de una copa de aguas suaves a una copa de lágrimas amargas, y las Oréades vinieron llorando por los bosques para cantarle a la fuente y darle consuelo.</p> '
+        'When Narcissus died the pool of his pleasure changed from a cup of sweet waters into a cup of salt tears, and the Oreads came weeping through the woodland that they might sing to the pool and give it comfort.',
+        'Cuando Narciso murió, la fuente de sus placeres dejó de ser un estanque de aguas dulces y se transformó en un estanque de lágrimas saladas, y las Oréades vinieron sollozando por el bosque para cantarle a la fuente y darle consuelo. ',
+        'Quando Narciso morreu, a fonte do seu prazer tornou-se de uma taça de águas suaves uma taça de lagrimas amargas e as Oréades vieram chorando pelas florestas para cantar á fonte e dar-lhe consolação. ',
+        'Cuando Narciso murió, la fuente de su placer se transformó de una copa de aguas suaves a una copa de lágrimas amargas, y las Oréades vinieron llorando por los bosques para cantarle a la fuente y darle consuelo. '
     ],
     [
-        '<p class="indent-first">And when they saw that the pool had changed from a cup of sweet waters into a cup of salt tears, they loosened the green tresses of their hair and cried to the pool and said, "We do not wonder that you should mourn in this manner for Narcissus, so beautiful was he".</p>',
-        '<p class="indent-first">Y cuando vieron que la fuente ya no era un estanque de aguas dulces sino un estanque de lágrimas saladas, soltaron las trenzas de sus verdes cabellos y lloraron sobre la fuente diciéndole: “No nos sorprende que guardes este luto por Narciso, tan hermoso era”.</p> ',
-        '<p class="indent-first">E quando viram que a fonte se tinha tornado de uma taça de águas suaves uma taça de lagrimas amargas, soltaram as verdes tranças do seu cabelo e falando à fonte disseram: Não nos admira que chores assim por Narciso, tão belo era ele.</p> ',
-        '<p class="indent-first">Y cuando vieron que la fuente se había transformado de una copa de aguas suaves a una copa de lágrimas amargas, soltaron las verdes trenzas de sus cabellos y hablándole a la fuente, dijeron: No nos sorprende que llores así por Narciso, tan bello era.</p> '
+        'And when they saw that the pool had changed from a cup of sweet waters into a cup of salt tears, they loosened the green tresses of their hair and cried to the pool and said, "We do not wonder that you should mourn in this manner for Narcissus, so beautiful was he".',
+        'Y cuando vieron que la fuente ya no era un estanque de aguas dulces sino un estanque de lágrimas saladas, soltaron las trenzas de sus verdes cabellos y lloraron sobre la fuente diciéndole: “No nos sorprende que guardes este luto por Narciso, tan hermoso era”. ',
+        'E quando viram que a fonte se tinha tornado de uma taça de águas suaves uma taça de lagrimas amargas, soltaram as verdes tranças do seu cabelo e falando à fonte disseram: Não nos admira que chores assim por Narciso, tão belo era ele. ',
+        'Y cuando vieron que la fuente se había transformado de una copa de aguas suaves a una copa de lágrimas amargas, soltaron las verdes trenzas de sus cabellos y hablándole a la fuente, dijeron: No nos sorprende que llores así por Narciso, tan bello era. '
     ],
     [
-        '<p class="indent-first">"But was Narcissus beautiful?" said the pool.</p>',
-        '<p class="indent-first">“¿Acaso Narciso era hermoso?”, dijo la fuente.</p> ',
-        '<p class="indent-first">—Mas Narciso era bello? disse a fonte.</p> ',
-        '<p class="indent-first">—¿Pero Narciso era bello?  dijo la fuente.</p> '
+        '"But was Narcissus beautiful?" said the pool.',
+        '“¿Acaso Narciso era hermoso?”, dijo la fuente. ',
+        '—Mas Narciso era bello? disse a fonte. ',
+        '—¿Pero Narciso era bello?  dijo la fuente. '
     ],
     [
-        '<p class="indent-first">"Who should know that better than you?" answered the Oreads. "Us did he ever pass by, but you he sought for, and would lie on your banks and look down at you, and in the mirror of your waters he would mirror his own beauty".</p>',
-        '<p class="indent-first">“¿Y quién debería saberlo mejor que tú?”, respondieron las Oréades. “A nosotras ni siquiera nos miraba, fue a ti que él buscó, y recostado junto a tus orillas te miraba fijamente, y en el espejo de tus aguas veía su propia belleza reflejada".</p> ',
-        '<p class="indent-first">—Quem melhor que tu pode saber? responderam as Oréades. Por nós passava ele sempre, deixando-nos, mas a ti buscava-te sempre e deitava-se à tua margem e olhava, debruçando-se, para ti e no espelho das tuas aguas espelhava ele a sua beleza.</p> ',
-        '<p class="indent-first">—¿Quién mejor que tú puede saberlo? respondieron las Oréades. Él siempre pasaba por nosotras, abandonándonos, pero a ti te buscaba siempre y se tendía a tu orilla y te miraba, inclinado, y en el espejo de tus aguas reflejaba su belleza.</p> '
+        '"Who should know that better than you?" answered the Oreads. "Us did he ever pass by, but you he sought for, and would lie on your banks and look down at you, and in the mirror of your waters he would mirror his own beauty".',
+        '“¿Y quién debería saberlo mejor que tú?”, respondieron las Oréades. “A nosotras ni siquiera nos miraba, fue a ti que él buscó, y recostado junto a tus orillas te miraba fijamente, y en el espejo de tus aguas veía su propia belleza reflejada". ',
+        '—Quem melhor que tu pode saber? responderam as Oréades. Por nós passava ele sempre, deixando-nos, mas a ti buscava-te sempre e deitava-se à tua margem e olhava, debruçando-se, para ti e no espelho das tuas aguas espelhava ele a sua beleza. ',
+        '—¿Quién mejor que tú puede saberlo? respondieron las Oréades. Él siempre pasaba por nosotras, abandonándonos, pero a ti te buscaba siempre y se tendía a tu orilla y te miraba, inclinado, y en el espejo de tus aguas reflejaba su belleza. '
     ],
     [
-        '<p class="indent-first">And the pool answered, "But I loved Narcissus because, as he lay on my banks and looked down at me, in the mirror of his eyes I saw ever my own beauty mirrored".</p>', 
-        '<p class="indent-first">Y la fuente respondió, “Pero yo amaba a Narciso porque cuando se recostaba junto a mis orillas y me miraba fijamente, en el espejo de sus ojos yo veía siempre el reflejo de mi propia belleza”.</p> ', 
-        '<p class="indent-first">E a fonte respondeu: Mas eu amava Narciso porque, quando, deitado à minha margem, se debruçava fitando-me, no espelho dos seus olhos eu via sempre a minha própria beleza refletida.</p> ', 
-        '<p class="indent-first">Y la fuente respondió: Pero yo amaba a Narciso porque, cuando, tendido en mi orilla, se inclinaba mirándome fijamente, en el espejo de sus ojos yo veía siempre mi propia belleza reflejada.</p> '
+        'And the pool answered, "But I loved Narcissus because, as he lay on my banks and looked down at me, in the mirror of his eyes I saw ever my own beauty mirrored".', 
+        'Y la fuente respondió, “Pero yo amaba a Narciso porque cuando se recostaba junto a mis orillas y me miraba fijamente, en el espejo de sus ojos yo veía siempre el reflejo de mi propia belleza”. ', 
+        'E a fonte respondeu: Mas eu amava Narciso porque, quando, deitado à minha margem, se debruçava fitando-me, no espelho dos seus olhos eu via sempre a minha própria beleza refletida. ', 
+        'Y la fuente respondió: Pero yo amaba a Narciso porque, cuando, tendido en mi orilla, se inclinaba mirándome fijamente, en el espejo de sus ojos yo veía siempre mi propia belleza reflejada. '
     ]
-] %}
-
-
-<!-- Rendered content -->
-{% for row in poem %}
-    <div class="row">
-        {% set isFirstRow = loop.first %}
-        {% for paragraph in row %}
-            {% set columnsAmmount = loop.length %}
-
-            {% if isFirstRow %}
-                {% set title = paragraph %}
-                {# Differenciate between columns with 2, 3 and 4 rows #}
-                {% if columnsAmmount <= 2 %}
-                    <div class="six columns">
-                        <h2>{{ title }}</h2>
-                    </div>
-                {% elif columnsAmmount == 3 %}
-                    <div class="four columns">
-                        <h2>{{ title }}</h2>
-                    </div>
-                {% elif columnsAmmount == 4 %}
-                    <div class="three columns">
-                        <h2>{{ title }}</h2>
-                    </div>
-                {% endif %}
-            {% else %}
-                {# Differenciate between columns with 2, 3 and 4 rows #}
-                {% if columnsAmmount <= 2 %}
-                    <div class="six columns">
-                        <p class="indent-first">{{ paragraph | safe }}</p>
-                    </div>
-                {% elif columnsAmmount == 3 %}
-                    <div class="four columns">
-                        <p class="indent-first">{{ paragraph | safe }}</p>
-                    </div>
-                {% elif columnsAmmount == 4 %}
-                    <div class="three columns">
-                        <p class="indent-first">{{ paragraph | safe }}</p>
-                    </div>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-    </div>
-{% endfor %}
+]
+---

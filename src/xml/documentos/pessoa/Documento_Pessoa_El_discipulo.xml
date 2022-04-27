@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="es" otherLangs="pt"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+</teiHeader>
+<facsimile xml:base="ruta-de-la-carpeta-con-las-imagenes"> <!--Daniel, aquí se reemplaza la ruta de la carpeta destinada para conservar las imagenes-->
+    <graphic url="Pessoa-O-Discipulo-1.jpg" xml:id="PD1"/>
+    <graphic url="Pessoa-O-Discipulo-2.jpg" xml:id="PD2"/>
+</facsimile>
+<text>
+    <body>
+    <div>
+        <pb facs="Pessoa-O-Discipulo-1">[BNP 94-7]</pb>
+            <head><hi rend="underline">O Discípulo.</hi></head>
+                <p><lb break="yes"/>Quando Narciso morreu, a fonte
+                <lb break="yes"/>do seu prazer tornou-se de uma
+                <lb break="yes"/>taça de aguas suaves uma taça
+                <lb break="no"/>de lagrimas amargas e as Oréa-
+                <lb break="no"/>des vieram chorando pelas flo-  
+                <lb break="yes"/>para cantar á fonte e
+                <lb break="yes"/>dar-lhe consolação.</p>
+                <p><lb break="yes"/>E quando viram que a fonte se
+                <lb break="yes"/>tinha <hi rend="overstrike">mudado</hi> [↑ tornado] de uma
+                <lb break="yes"/>taça de aguas suaves uma taça
+                <lb break="yes"/>de lagrimas amargas, soltaram
+                <lb break="yes"/>as verdes <hi rend="overstrike">coronas</hi> [↑ tranças] do seu
+                <lb break="no"/>cabello e fallando á fonte dis- 
+                <lb break="no"/>seram: Não nos admira que cho-
+                <lb break="yes"/>res assim por Narciso, tão bello
+                <lb break="yes"/>era elle.</p>
+                <p><lb break="yes"/>‒ Mas Narciso era bello? disse a
+                <lb break="yes"/>fonte.</p>
+                <p><lb break="no"/>‒ Quem melhor que tu pode sa-
+                <lb break="yes"/>ber? responderam as Oréades. Por
+                <lb break="no"/>nós passava elle sempre, deixan-
+                <lb break="no"/>do-nos, mas a ti buscava-te sem-   
+    <pb facs="Pessoa-O-Discipulo-2">[BNP 94-8]</pb>
+                <lb break="yes"/>pre e deitava-se á tua margem
+                <lb break="yes"/>e olhava, debruçando-se, para ti
+                <lb break="no"/>e no espelho das tuas aguas es-
+                <lb break="yes"/>pelhava elle a sua belleza.</p>  
+                <p><lb break="yes"/>E a fonte respondeu: Mas eu
+                <lb break="yes"/>amava Narciso porque, quando,
+                <lb break="yes"/>deitado á minha margem, se
+                <lb break="no"/>debruçava fitando-me, no espe-
+                <lb break="yes"/>lho dos seus olhos eu via sempre a
+                <lb break="no"/>minha propria belleza reflectida.</p>
+    </div>
+    <div>
+            <head><hi rend="underline">El discípulo</hi></head>
+                <p><lb break="yes"/>Cuando Narciso murió, la fuente
+                <lb break="yes"/>de su placer se transformó de una
+                <lb break="yes"/>copa de aguas suaves a una copa
+                <lb break="no"/>de lágrimas amargas, y las Oréa-
+                <lb break="yes"/>des vinieron llorando por los bosques
+                <lb break="yes"/>para cantarle a la fuente y
+                <lb break="yes"/>darle consuelo.</p>
+                <p><lb break="yes"/>Y cuando vieron que la fuente se
+                <lb break="yes"/>había <hi rend="overstrike">cambiado</hi> [↑ transformado] de una
+                <lb break="yes"/>copa de aguas suaves a una copa
+                <lb break="yes"/>de lágrimas amargas, soltaron
+                <lb break="yes"/>las verdes <hi rend="overstrike">coronas</hi> [↑ trenzas] de su
+                <lb break="no"/>cabello y hablándole a la fuente, di-
+                <lb break="no"/>jeron: No nos sorprende que llo-
+                <lb break="yes"/>res así por Narciso, tan bello
+                <lb break="yes"/>él era.</p>
+                <p><lb break="yes"/>‒ ¿Pero Narciso era bello? dijo la
+                <lb break="yes"/>fuente.</p>
+                <p><lb break="no"/>‒ ¿Quién mejor que tú puede sa-
+                <lb break="yes"/>berlo? respondieron las Oréades. Él
+                <lb break="no"/>siempre pasaba por nosotras, abando-
+                <lb break="no"/>nándonos, pero a ti te buscaba siem-   
+                <lb break="yes"/>pre y se tendía a tu orilla
+                <lb break="yes"/>y te miraba, inclinándose,
+                <lb break="no"/>y en el espejo de tus aguas re-
+                <lb break="yes"/>flejaba su belleza.</p>  
+                <p><lb break="yes"/>Y la fuente respondió: Pero yo
+                <lb break="yes"/>amaba a Narciso porque, cuando,
+                <lb break="yes"/>tendido en mi orilla, se
+                <lb break="no"/>inclinaba mirándome fijamente, en el es-
+                <lb break="yes"/>pejo de sus ojos yo veía siempre mi 
+                <lb break="no"/>mi propia belleza reflejada.</p>
+    </div>
+    </body>
+</text>
+</TEI>

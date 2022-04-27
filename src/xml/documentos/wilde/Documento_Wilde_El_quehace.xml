@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poemas en prosa</title>
+                <author>Oscar Wilde</author>
+                <respStmt>
+                    <resp>Traducción</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Codificación y transcripción digital</resp>
+                    <name>Semillero de Poética y traducción</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Modelación de datos y codificación</resp>
+                    <name>Cristian Suárez-Giraldo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revisión de texto</resp>
+                    <name>Yenny Correa León</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Universidad EAFIT</publisher>
+                <pubPlace>Medellín</pubPlace>
+                <date>2021</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        Distribuida bajo Licencia Creative Commons
+                        Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA
+                        4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title/>
+                    <textLang mainLang="en" otherLangs="es"/>
+                    <relatedItem type="translatedFrom">
+                        <bibl>
+                            <textLang mainLang="en"/>
+                            <ref target="https://www.wilde-online.info/poems-in-prose.html">Poems in
+                                Prose</ref>
+                        </bibl>
+                    </relatedItem>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/15">"The Doer of Good", page 1</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/16">"The Doer of Good", page 2</ref>
+        <ref target="https://www.themorgan.org/collection/oscar-wilde/manuscripts-letters/17">"The Doer of Good", page 3</ref>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">The Doer of Good.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>It was night-time and he was
+                        <lb break="yes"/>alone. [And he saw afar off the
+                        <lb break="yes"/>walls of a great city and went
+                        <lb break="yes"/>towards the city.</p>
+                <p rend="indent-first"><lb break="yes"/>[And when he <hi rend="overstrike">reached the</hi>
+                        <lb break="yes"/>came near he heard within the
+                        <lb break="yes"/>city <hi rend="overstrike">laughter</hi> [↓ the tread of the feet of joy and the laughter of the mouth of gladness]
+                        <lb break="yes"/>and the noise of lutes.
+                        <lb break="yes"/>And he knocked at the gate and
+                        <lb break="yes"/>many <hi rend="overstrike">they</hi> [↑ the gate-keepers] opened to him. And when <hi rend="overstrike">they</hi> they 
+                        <lb break="yes"/>had opened to him he entered in.</p>
+                <p rend="indent-first"><lb break="yes"/>And he came to a house that
+                        <lb break="yes"/>was of marble and had fair pillars
+                        <lb break="yes"/>of marble before it. The pillars
+                        <lb break="yes"/>were hung with garlands and within
+                        <lb break="yes"/>and without there were torches of
+                        <lb break="yes"/>cedar. And he entered the house.</p>
+                <p rend="indent-first"><lb break="yes"/>And when he had <hi rend="overstrike">entered</hi>
+                        <lb break="yes"/><hi rend="overstrike">the house</hi> passed through the
+                        <lb break="yes"/>hall of chalcedony and the hall of
+                        <lb break="yes"/>jasper and reached the long hall of Feasting,
+                        <lb break="yes"/>he saw lying at the feast a young
+                        <lb break="yes"/>man whose hair was crowned with
+                        <lb break="yes"/>red roses and whose lips were red
+                        <lb break="yes"/>wine.</p>
+                <p rend="indent-first"><lb break="yes"/>And he went <hi rend="overstrike">towards</hi> [↑ behind] him and touched
+                        <lb break="yes"/>him on the shoulder and said to him,
+                        <lb break="yes"/>"Why do you live like this?"</p>
+                <p rend="indent-first"><lb break="yes"/>And the young man turned round and
+                        <lb break="yes"/>recognised him, and made answer
+                        <lb break="yes"/>and said, "But I was a leper once,
+                        <lb break="yes"/>and you healed me. How else should
+                        <lb break="yes"/>I live?"</p>
+            <pb facs="PA1">Page 2</pb>
+                <p rend="indent-first"><lb break="yes"/>And he passed out of the house
+                        <lb break="yes"/>and went again into the street.</p>
+                <p rend="indent-first"><lb break="yes"/>And after a little while he
+                        <lb break="yes"/>saw one whose face and raiment were
+                        <lb break="yes"/>painted and whose feet <hi rend="overstrike">were</hi> were shod with
+                        <lb break="yes"/>pearls. And behind her <hi rend="overstrike">walked</hi> [↑ came] slowly as
+                        <lb break="yes"/>a hunter a young man who wore a
+                        <lb break="yes"/>cloak of two colours. <hi rend="overstrike">And</hi> [↑ Now] the face of the
+                        <lb break="yes"/>woman was as the fair face of an idol, and the eyes of the young man were bright
+                        <lb break="yes"/>with lust.</p>
+                <p rend="indent-first"><lb break="yes"/>And He followed swiftly and touched
+                        <lb break="yes"/>[↓ the hand of] the young man <hi rend="overstrike">on the shoulder</hi> and said
+                        <lb break="yes"/>to him "Why do you look <hi rend="overstrike">in this manner</hi> at this woman and in this manner?"</p>
+                <p rend="indent-first"><lb break="yes"/>And the young man turned round and
+                        <lb break="yes"/>recognised him and said, "But I was blind
+                        <lb break="yes"/>once, and you healed me. At what else
+                        <lb break="yes"/>should I look."</p>
+                <p rend="indent-first"><lb break="yes"/>And He <hi rend="overstrike">ran</hi> [↑ went] forward and touched
+                        <lb break="yes"/>the painted raiment of the woman and
+                        <lb break="yes"/>said to her "Is there no other way in
+                        <lb break="yes"/>which to walk save the way of sin?"</p>
+                <p rend="indent-first"><lb break="yes"/>And the woman turned round and recognised
+                        <lb break="yes"/>him and laughed and said "But you forgave
+                        <lb break="yes"/>me my sins, and the way is a pleasant way."</p>
+                <p rend="indent-first"><lb break="yes"/>
+                        <lb break="yes"/><hi rend="overstrike">And everywhere that he went in this city he found that those whom he had
+                        <lb break="yes"/>healed living for pleasure and for pleasure only.</hi></p>
+                <p rend="indent-first"><lb break="yes"/>[And he passed out of the city.
+                        <lb break="yes"/>[And when he had passed out of
+                        <lb break="yes"/>the city he saw seated by the
+                        <lb break="yes"/>roadside a young man who was
+                        <lb break="yes"/>weeping.</p>
+                <p rend="indent-first"><lb break="yes"/>And he went towards him and 
+                        <lb break="yes"/>touched <hi rend="overstrike">him</hi> his hair and said to
+                        <lb break="yes"/>him "Whey are you weeping?"</p>
+                <p rend="indent-first"><lb break="yes"/>And the young man <hi rend="overstrike">turned</hi> looked up and recognised him and
+            <pb facs="PA1">Page 3</pb>
+                        <lb break="yes"/><hi rend="overstrike">an</hi> made answer, "But I was dead
+                        <lb break="yes"/>once and you raised me from the
+                        <lb break="yes"/>dead. It is for that reason that I am
+                        <lb break="yes"/>weeping."</p>     
+                </div>
+                <div>
+            <pb facs="PA1">Page 1</pb>
+                <head rend="center"><hi rend="underline">El que hace el bien.</hi></head> 
+                <p rend="indent-first"><lb break="yes"/>Era de noche y Él estaba
+                        <lb break="yes"/>solo. [Y vio a la distancia los
+                        <lb break="yes"/>muros de una ciudad redonda y caminó
+                        <lb break="yes"/>hacia esa ciudad.</p>                     
+                <p rend="indent-first"><lb break="yes"/>[Y cuando <hi rend="overstrike">llegó al</hi>
+                        <lb break="yes"/>estuvo cerca, Él oyó dentro de la
+                        <lb break="yes"/>ciudad <hi rend="overstrike">la risa</hi> [↓ el hollar de pies alegres, la risa de una boca gozosa]
+                        <lb break="yes"/>y el estridente ruido de muchos laúdes.
+                        <lb break="yes"/>Entonces tocó a la puerta y <hi rend="overstrike">de ellos</hi> [↑ algunos guardias] la abrieron para Él.</p>
+                <p rend="indent-first"><lb break="yes"/>Y entonces Él contempló una casa
+                        <lb break="yes"/>hecha de mármol con hermosas columnas
+                        <lb break="yes"/>de mármol a la entrada. Las columnas
+                        <lb break="yes"/>estaban adornadas con guirnaldas y tanto adentro
+                        <lb break="yes"/>como afuera había antorchas de
+                        <lb break="yes"/>cedro. Entonces Él entró a la casa.</p>
+                <p rend="indent-first"><lb break="yes"/>Y tras <hi rend="overstrike">entrar en</hi>
+                        <lb break="yes"/><hi rend="overstrike">la casa</hi> atravesar el 
+                        <lb break="yes"/>salón de calcedonia y el salón de
+                        <lb break="yes"/>jaspe, Él entró al gran salón de los banquetes
+                        <lb break="yes"/>y vio tumbado sobre un sillón color púrpura imperial.
+                        <lb break="yes"/>a un hombre coronado con 
+                        <lb break="yes"/>rosas rojas y con los labios rojos de
+                        <lb break="yes"/>vino.</p>
+                <p rend="indent-first"><lb break="yes"/>Y Él <hi rend="overstrike">fue hacia</hi> [↑ se le acercó por la espalda] y,
+                        <lb break="yes"/>tocándole un hombro, le dijo:
+                        <lb break="yes"/>“¿Por qué vives así?”</p>
+                <p rend="indent-first"><lb break="yes"/>Y el joven se dio la vuelta y
+                        <lb break="yes"/>lo reconoció, pensó una respuesta
+                        <lb break="yes"/>y dijo: “Pero si yo antes era un leproso
+                        <lb break="yes"/>y tú me curaste. ¿Cómo más
+                        <lb break="yes"/>debería vivir?”</p>
+            <pb facs="PA1">Page 2</pb>
+                <p rend="indent-first"><lb break="yes"/>Y Él salió de la casa
+                        <lb break="yes"/>y regresó a la calle.</p>
+                <p rend="indent-first"><lb break="yes"/>Y después de un corto tiempo Él
+                        <lb break="yes"/>vio a una cuyo rostro y vestiduras estaban
+                        <lb break="yes"/>pintadas, y cuyos pies estaban calzados con
+                        <lb break="yes"/>perlas. Y tras ella [↑ venía] <hi rend="overstrike">caminando</hi>, despacio como
+                        <lb break="yes"/>un cazador, un joven con una
+                        <lb break="yes"/>capa de dos colores. <hi rend="overstrike">Pues</hi> [↑ Y] la cara de la
+                        <lb break="yes"/>mujer era bella como la de un ídolo y los ojos del joven brillaban
+                        <lb break="yes"/>de lujuria.</p>
+                <p rend="indent-first"><lb break="yes"/>Y entonces Él los siguió velozmente y tocando
+                        <lb break="yes"/>[↓ la mano del] joven <hi rend="overstrike">en el hombro</hi>
+                        <lb break="yes"/>le dijo: “¿Por qué miras <hi rend="overstrike">de esa manera</hi> a esta mujer y lo haces de esa manera?”</p>
+                <p rend="indent-first"><lb break="yes"/>Y el joven se dio la vuelta, y
+                        <lb break="yes"/>reconociéndolo le dijo: “Pero si yo antes era ciego
+                        <lb break="yes"/>y tú me diste la vista. ¿Qué más
+                        <lb break="yes"/>debería mirar?”</p>
+                <p rend="indent-first"><lb break="yes"/>Y Él <hi rend="overstrike">corrió</hi> [↑ fue] hacia adelante y tocó
+                        <lb break="yes"/>las ropas pintadas de la mujer y
+                        <lb break="yes"/>le dijo: “¿Acaso no existe
+                        <lb break="yes"/>otro camino salvo el del pecado?”</p>
+                <p rend="indent-first"><lb break="yes"/>Y la mujer se dio la vuelta y lo reconoció,
+                        <lb break="yes"/>y riéndose le dijo: “Pero tú perdonaste
+                        <lb break="yes"/>mis pecados, y este camino es placentero”.</p>
+                <p rend="indent-first"><lb break="yes"/><hi rend="overstrike">Y dondequiera que fuera en esta ciudad encontró que aquellos a quienes
+                        <lb break="yes"/>había curado vivían por el placer y solo por el placer.</hi></p>
+                <p rend="indent-first"><lb break="yes"/>[Y entonces Él atravesó la ciudad hasta salir de ella.
+                        <lb break="yes"/>[Y cuando Él salió de
+                        <lb break="yes"/>la ciudad vio sentado, a un lado de
+                        <lb break="yes"/>la carretera, a un joven que
+                        <lb break="yes"/>lloraba.</p>
+                <p rend="indent-first"><lb break="yes"/>Y Él se le acercó y
+                        <lb break="yes"/>tocando sus largos rizos
+                        <lb break="yes"/>le dijo, “¿Por qué lloras?"</p>
+                <p rend="indent-first"><lb break="yes"/>Y el joven <hi rend="overstrike">se dio la vuelta</hi> miró hacia arriba y reconociéndolo
+            <pb facs="PA1">Page 3</pb>
+                        <lb break="yes"/>respondió: “Pero si yo antes estaba muerto,
+                        <lb break="yes"/>y tú me resucitaste.
+                        <lb break="yes"/>¿Qué otra cosa podría hacer sino
+                        <lb break="yes"/>llorar?”</p>     
+                </div>
+                    
+        </body>
+    </text>
+</TEI>
